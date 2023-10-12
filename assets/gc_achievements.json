@@ -1,0 +1,6572 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Tales of Monstrous Madness",
+        "category_id": 0,
+        "primo": 5
+    },
+    "2": {
+        "id": 2,
+        "name": "Illustrious in Inazuma",
+        "category_id": 0,
+        "primo": 20
+    },
+    "3": {
+        "id": 3,
+        "name": "Overlooking View",
+        "category_id": 0,
+        "primo": 5
+    },
+    "4": {
+        "id": 4,
+        "name": "The Remains of the Gale",
+        "category_id": 0,
+        "primo": 5
+    },
+    "5": {
+        "id": 5,
+        "name": "\"Seeds of Stories, Brought by the Wind...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "6": {
+        "id": 6,
+        "name": "Unswerving",
+        "category_id": 0,
+        "primo": 5
+    },
+    "7": {
+        "id": 7,
+        "name": "Initiating Warp Drive!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "8": {
+        "id": 8,
+        "name": "Beloved of the Anemo Archon",
+        "category_id": 0,
+        "primo": 5
+    },
+    "9": {
+        "id": 9,
+        "name": "The Best Sword in the Cemetery",
+        "category_id": 0,
+        "primo": 5
+    },
+    "10": {
+        "id": 10,
+        "name": "Hidden Palace of Guizang Formula",
+        "category_id": 0,
+        "primo": 5
+    },
+    "11": {
+        "id": 11,
+        "name": "Cecilia Garden",
+        "category_id": 0,
+        "primo": 5
+    },
+    "12": {
+        "id": 12,
+        "name": "Hidden Palace of Zhou Formula",
+        "category_id": 0,
+        "primo": 5
+    },
+    "13": {
+        "id": 13,
+        "name": "\"If you put your heart into it...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "14": {
+        "id": 14,
+        "name": "\"...Anyone can be a gourmet.\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "15": {
+        "id": 15,
+        "name": "Boared to Death",
+        "category_id": 0,
+        "primo": 5
+    },
+    "16": {
+        "id": 16,
+        "name": "Golden Gliding License",
+        "category_id": 0,
+        "primo": 10
+    },
+    "17": {
+        "id": 17,
+        "name": "It's the Same As Having Wings",
+        "category_id": 0,
+        "primo": 10
+    },
+    "18": {
+        "id": 18,
+        "name": "Quick As Lightning",
+        "category_id": 0,
+        "primo": 10
+    },
+    "19": {
+        "id": 19,
+        "name": "Friends the World Over",
+        "category_id": 0,
+        "primo": 10
+    },
+    "20": {
+        "id": 20,
+        "name": "Megastar in Mondstadt",
+        "category_id": 0,
+        "primo": 20
+    },
+    "21": {
+        "id": 21,
+        "name": "Legend in Liyue",
+        "category_id": 0,
+        "primo": 20
+    },
+    "22": {
+        "id": 22,
+        "name": "QUEST CLEAR",
+        "category_id": 0,
+        "primo": 5
+    },
+    "23": {
+        "id": 23,
+        "name": "QUEST CLEAR",
+        "category_id": 0,
+        "primo": 10
+    },
+    "24": {
+        "id": 24,
+        "name": "QUEST CLEAR",
+        "category_id": 0,
+        "primo": 20
+    },
+    "25": {
+        "id": 25,
+        "name": "Hero-in-Training",
+        "category_id": 0,
+        "primo": 5
+    },
+    "26": {
+        "id": 26,
+        "name": "Hero-in-Training",
+        "category_id": 0,
+        "primo": 10
+    },
+    "27": {
+        "id": 27,
+        "name": "Hero-in-Training",
+        "category_id": 0,
+        "primo": 20
+    },
+    "28": {
+        "id": 28,
+        "name": "QUEST FAILED",
+        "category_id": 0,
+        "primo": 5
+    },
+    "29": {
+        "id": 29,
+        "name": "The Bleak Midwinter",
+        "category_id": 0,
+        "primo": 5
+    },
+    "30": {
+        "id": 30,
+        "name": "Priest, Princess, and Scribe",
+        "category_id": 0,
+        "primo": 5
+    },
+    "31": {
+        "id": 31,
+        "name": "Prodigal Son's Return",
+        "category_id": 0,
+        "primo": 5
+    },
+    "32": {
+        "id": 32,
+        "name": "Snow-Stored History",
+        "category_id": 0,
+        "primo": 5
+    },
+    "33": {
+        "id": 33,
+        "name": "Glacial Steel",
+        "category_id": 0,
+        "primo": 5
+    },
+    "34": {
+        "id": 34,
+        "name": "Futile Endeavor",
+        "category_id": 0,
+        "primo": 5
+    },
+    "35": {
+        "id": 35,
+        "name": "Untellable Tale",
+        "category_id": 0,
+        "primo": 5
+    },
+    "36": {
+        "id": 36,
+        "name": "Towering Achievement",
+        "category_id": 0,
+        "primo": 5
+    },
+    "37": {
+        "id": 37,
+        "name": "Winter Wonderland",
+        "category_id": 0,
+        "primo": 5
+    },
+    "38": {
+        "id": 38,
+        "name": "The Hunter Becomes the Hunted",
+        "category_id": 0,
+        "primo": 5
+    },
+    "39": {
+        "id": 39,
+        "name": "Chill Out!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "40": {
+        "id": 40,
+        "name": "Glutton for Goulash",
+        "category_id": 0,
+        "primo": 5
+    },
+    "41": {
+        "id": 41,
+        "name": "Wrath of the Gods",
+        "category_id": 0,
+        "primo": 5
+    },
+    "42": {
+        "id": 42,
+        "name": "Sky High",
+        "category_id": 0,
+        "primo": 5
+    },
+    "43": {
+        "id": 43,
+        "name": "Transmutation Nuclide",
+        "category_id": 0,
+        "primo": 5
+    },
+    "44": {
+        "id": 44,
+        "name": "...You could hear Paimon all along, couldn't you?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "45": {
+        "id": 45,
+        "name": "Yo-Ho-Ho, and a Bottle of Dandelion Wine",
+        "category_id": 0,
+        "primo": 5
+    },
+    "46": {
+        "id": 46,
+        "name": "Mighty and Illuminated Wave Rider",
+        "category_id": 0,
+        "primo": 5
+    },
+    "47": {
+        "id": 47,
+        "name": "Nice Boat!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "48": {
+        "id": 48,
+        "name": "...And Her Name Is the Mary Celeste",
+        "category_id": 0,
+        "primo": 5
+    },
+    "49": {
+        "id": 49,
+        "name": "Déjà Vu!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "50": {
+        "id": 50,
+        "name": "Yamada Go's Wooden Mallet",
+        "category_id": 0,
+        "primo": 5
+    },
+    "51": {
+        "id": 51,
+        "name": "\"Kujirai Art, Temari Jutsu\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "52": {
+        "id": 52,
+        "name": "Temari for Life",
+        "category_id": 0,
+        "primo": 5
+    },
+    "53": {
+        "id": 53,
+        "name": "Paimon's Lucky Day!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "54": {
+        "id": 54,
+        "name": "Just My Luck...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "55": {
+        "id": 55,
+        "name": "Underground... Overrated?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "56": {
+        "id": 56,
+        "name": "SHUUMATSU GAIDEN",
+        "category_id": 0,
+        "primo": 5
+    },
+    "57": {
+        "id": 57,
+        "name": "Iwakura Out",
+        "category_id": 0,
+        "primo": 5
+    },
+    "58": {
+        "id": 58,
+        "name": "Who Let the Dogs Out",
+        "category_id": 0,
+        "primo": 5
+    },
+    "59": {
+        "id": 59,
+        "name": "You Can't Help Your Feelings",
+        "category_id": 0,
+        "primo": 5
+    },
+    "61": {
+        "id": 61,
+        "name": "They Shall Not Grow Old",
+        "category_id": 0,
+        "primo": 5
+    },
+    "62": {
+        "id": 62,
+        "name": "Oh, the Humanity!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "63": {
+        "id": 63,
+        "name": "A Hollow Soul",
+        "category_id": 0,
+        "primo": 5
+    },
+    "64": {
+        "id": 64,
+        "name": "Rise and Shrine",
+        "category_id": 0,
+        "primo": 5
+    },
+    "65": {
+        "id": 65,
+        "name": "...And I Would Walk 3,000 More",
+        "category_id": 0,
+        "primo": 5
+    },
+    "66": {
+        "id": 66,
+        "name": "A Doctor's Odyssey",
+        "category_id": 0,
+        "primo": 5
+    },
+    "67": {
+        "id": 67,
+        "name": "Knock Knock",
+        "category_id": 0,
+        "primo": 5
+    },
+    "68": {
+        "id": 68,
+        "name": "Kannazuka Battle Plan",
+        "category_id": 0,
+        "primo": 5
+    },
+    "69": {
+        "id": 69,
+        "name": "Why We Fight",
+        "category_id": 0,
+        "primo": 5
+    },
+    "70": {
+        "id": 70,
+        "name": "Oowazamono",
+        "category_id": 0,
+        "primo": 5
+    },
+    "71": {
+        "id": 71,
+        "name": "Second Blooming",
+        "category_id": 0,
+        "primo": 5
+    },
+    "72": {
+        "id": 72,
+        "name": "Thank You, Come Again",
+        "category_id": 0,
+        "primo": 5
+    },
+    "73": {
+        "id": 73,
+        "name": "Shocking... Positively Shocking",
+        "category_id": 0,
+        "primo": 5
+    },
+    "74": {
+        "id": 74,
+        "name": "Jackpot",
+        "category_id": 0,
+        "primo": 5
+    },
+    "75": {
+        "id": 75,
+        "name": "Blade of Tatara",
+        "category_id": 0,
+        "primo": 5
+    },
+    "77": {
+        "id": 77,
+        "name": "Rest in Peace",
+        "category_id": 0,
+        "primo": 5
+    },
+    "78": {
+        "id": 78,
+        "name": "Juggernaut",
+        "category_id": 0,
+        "primo": 10
+    },
+    "79": {
+        "id": 79,
+        "name": "The PRISM Program",
+        "category_id": 0,
+        "primo": 10
+    },
+    "80": {
+        "id": 80,
+        "name": "\"That's one big Crystalfly\"",
+        "category_id": 0,
+        "primo": 10
+    },
+    "81": {
+        "id": 81,
+        "name": "\"...Not indicative of final product\"",
+        "category_id": 0,
+        "primo": 10
+    },
+    "82": {
+        "id": 82,
+        "name": "The Bigger They Are...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "83": {
+        "id": 83,
+        "name": "Through Pass",
+        "category_id": 0,
+        "primo": 5
+    },
+    "84": {
+        "id": 84,
+        "name": "Dolorous Stroke",
+        "category_id": 0,
+        "primo": 5
+    },
+    "85": {
+        "id": 85,
+        "name": "Hilichurl Champion",
+        "category_id": 0,
+        "primo": 10
+    },
+    "86": {
+        "id": 86,
+        "name": "Bon Appétit",
+        "category_id": 0,
+        "primo": 10
+    },
+    "87": {
+        "id": 87,
+        "name": "Purveyor of Punishment",
+        "category_id": 0,
+        "primo": 5
+    },
+    "88": {
+        "id": 88,
+        "name": "Purveyor of Punishment",
+        "category_id": 0,
+        "primo": 10
+    },
+    "89": {
+        "id": 89,
+        "name": "Purveyor of Punishment",
+        "category_id": 0,
+        "primo": 20
+    },
+    "90": {
+        "id": 90,
+        "name": "Fantastic Four",
+        "category_id": 0,
+        "primo": 10
+    },
+    "91": {
+        "id": 91,
+        "name": "\"Take That, You Overblown Mist Flower!\"",
+        "category_id": 0,
+        "primo": 10
+    },
+    "92": {
+        "id": 92,
+        "name": "\"That Was Blooming Hot\"",
+        "category_id": 0,
+        "primo": 10
+    },
+    "93": {
+        "id": 93,
+        "name": "Outlander Vs. Outlander",
+        "category_id": 0,
+        "primo": 10
+    },
+    "94": {
+        "id": 94,
+        "name": "Penalty",
+        "category_id": 0,
+        "primo": 5
+    },
+    "95": {
+        "id": 95,
+        "name": "Force Field Erosion",
+        "category_id": 0,
+        "primo": 5
+    },
+    "96": {
+        "id": 96,
+        "name": "\"...Lizard-Spock\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "97": {
+        "id": 97,
+        "name": "A House Ill-Founded",
+        "category_id": 0,
+        "primo": 5
+    },
+    "98": {
+        "id": 98,
+        "name": "None Stand Secure",
+        "category_id": 0,
+        "primo": 5
+    },
+    "99": {
+        "id": 99,
+        "name": "Back With the Wind",
+        "category_id": 0,
+        "primo": 5
+    },
+    "100": {
+        "id": 100,
+        "name": "Core Meltdown",
+        "category_id": 0,
+        "primo": 5
+    },
+    "101": {
+        "id": 101,
+        "name": "Knockout",
+        "category_id": 0,
+        "primo": 5
+    },
+    "102": {
+        "id": 102,
+        "name": "\"...Till Debt Do Us Part\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "103": {
+        "id": 103,
+        "name": "\"Melting... Away...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "104": {
+        "id": 104,
+        "name": "And You Call Yourself One of the Four Winds",
+        "category_id": 0,
+        "primo": 5
+    },
+    "105": {
+        "id": 105,
+        "name": "Touch and Go",
+        "category_id": 0,
+        "primo": 5
+    },
+    "106": {
+        "id": 106,
+        "name": "Deflection!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "107": {
+        "id": 107,
+        "name": "You Can Have Those Back!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "108": {
+        "id": 108,
+        "name": "Sternest of Souls",
+        "category_id": 0,
+        "primo": 20
+    },
+    "109": {
+        "id": 109,
+        "name": "\"...A Single Night's Work\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "110": {
+        "id": 110,
+        "name": "\"Knee-Deep Snow...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "111": {
+        "id": 111,
+        "name": "If I Run Fast Enough...",
+        "category_id": 0,
+        "primo": 10
+    },
+    "112": {
+        "id": 112,
+        "name": "In This Solemn Matter Let No One Interfere!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "113": {
+        "id": 113,
+        "name": "Fine, I'll Do It Myself",
+        "category_id": 0,
+        "primo": 5
+    },
+    "114": {
+        "id": 114,
+        "name": "Burned Yourself, Did You?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "115": {
+        "id": 115,
+        "name": "Smells like Animal Spirit!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "116": {
+        "id": 116,
+        "name": "Core Breakthrough",
+        "category_id": 0,
+        "primo": 10
+    },
+    "117": {
+        "id": 117,
+        "name": "Could All Uninvolved Machinery Please Leave Immediately?",
+        "category_id": 0,
+        "primo": 10
+    },
+    "118": {
+        "id": 118,
+        "name": "Fight Fire With Fire",
+        "category_id": 0,
+        "primo": 5
+    },
+    "119": {
+        "id": 119,
+        "name": "Ride the Lightning",
+        "category_id": 0,
+        "primo": 5
+    },
+    "120": {
+        "id": 120,
+        "name": "I Hear Thunder...",
+        "category_id": 0,
+        "primo": 10
+    },
+    "121": {
+        "id": 121,
+        "name": "The End of the Beginning",
+        "category_id": 0,
+        "primo": 20
+    },
+    "122": {
+        "id": 122,
+        "name": "The Outlander Who Caught the Wind",
+        "category_id": 0,
+        "primo": 10
+    },
+    "123": {
+        "id": 123,
+        "name": "For a Tomorrow Without Tears",
+        "category_id": 0,
+        "primo": 10
+    },
+    "124": {
+        "id": 124,
+        "name": "Song of the Dragon and Freedom",
+        "category_id": 0,
+        "primo": 10
+    },
+    "125": {
+        "id": 125,
+        "name": "Let the Wind Lead",
+        "category_id": 0,
+        "primo": 5
+    },
+    "126": {
+        "id": 126,
+        "name": "...Or a New Storm?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "127": {
+        "id": 127,
+        "name": "Knighthood Excellence",
+        "category_id": 0,
+        "primo": 5
+    },
+    "128": {
+        "id": 128,
+        "name": "Knights and Their Knotty Issues",
+        "category_id": 0,
+        "primo": 5
+    },
+    "129": {
+        "id": 129,
+        "name": "Winds Change Their Course",
+        "category_id": 0,
+        "primo": 5
+    },
+    "130": {
+        "id": 130,
+        "name": "Of the Land Amidst Monoliths",
+        "category_id": 0,
+        "primo": 10
+    },
+    "131": {
+        "id": 131,
+        "name": "Farewell, Archaic Lord",
+        "category_id": 0,
+        "primo": 10
+    },
+    "132": {
+        "id": 132,
+        "name": "Outlandish Behavior",
+        "category_id": 0,
+        "primo": 5
+    },
+    "133": {
+        "id": 133,
+        "name": "Silly-Billy Churlish Ghoul",
+        "category_id": 0,
+        "primo": 5
+    },
+    "134": {
+        "id": 134,
+        "name": "That Smells Divine",
+        "category_id": 0,
+        "primo": 5
+    },
+    "135": {
+        "id": 135,
+        "name": "It's Bigger on the Inside",
+        "category_id": 0,
+        "primo": 5
+    },
+    "136": {
+        "id": 136,
+        "name": "Ticked, Tacked, and Towed",
+        "category_id": 0,
+        "primo": 5
+    },
+    "137": {
+        "id": 137,
+        "name": "Respecting Cultural Heritage",
+        "category_id": 0,
+        "primo": 5
+    },
+    "138": {
+        "id": 138,
+        "name": "The Long Goodbye",
+        "category_id": 0,
+        "primo": 5
+    },
+    "139": {
+        "id": 139,
+        "name": "Icing on the Slime",
+        "category_id": 0,
+        "primo": 5
+    },
+    "140": {
+        "id": 140,
+        "name": "Sky's the Limit",
+        "category_id": 0,
+        "primo": 5
+    },
+    "141": {
+        "id": 141,
+        "name": "Lily Loves Music",
+        "category_id": 0,
+        "primo": 5
+    },
+    "142": {
+        "id": 142,
+        "name": "I'll Let You Off... This Time",
+        "category_id": 0,
+        "primo": 5
+    },
+    "143": {
+        "id": 143,
+        "name": "Derailed",
+        "category_id": 0,
+        "primo": 5
+    },
+    "144": {
+        "id": 144,
+        "name": "Final Farewell",
+        "category_id": 0,
+        "primo": 5
+    },
+    "145": {
+        "id": 145,
+        "name": "A New Star Approaches",
+        "category_id": 0,
+        "primo": 5
+    },
+    "146": {
+        "id": 146,
+        "name": "Pirates! Argh!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "147": {
+        "id": 147,
+        "name": "A Nourishing Friendship",
+        "category_id": 0,
+        "primo": 5
+    },
+    "148": {
+        "id": 148,
+        "name": "Love Is All Around",
+        "category_id": 0,
+        "primo": 5
+    },
+    "149": {
+        "id": 149,
+        "name": "For the Love of Godwin",
+        "category_id": 0,
+        "primo": 5
+    },
+    "150": {
+        "id": 150,
+        "name": "Level Up",
+        "category_id": 0,
+        "primo": 5
+    },
+    "151": {
+        "id": 151,
+        "name": "Beginner's Luck",
+        "category_id": 0,
+        "primo": 5
+    },
+    "152": {
+        "id": 152,
+        "name": "Taking Responsibility for Your Actions",
+        "category_id": 0,
+        "primo": 5
+    },
+    "153": {
+        "id": 153,
+        "name": "Making Do",
+        "category_id": 0,
+        "primo": 5
+    },
+    "154": {
+        "id": 154,
+        "name": "\"Dear Daddy...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "155": {
+        "id": 155,
+        "name": "Marvelous Medicine",
+        "category_id": 0,
+        "primo": 5
+    },
+    "156": {
+        "id": 156,
+        "name": "In the Name of Favonius",
+        "category_id": 0,
+        "primo": 5
+    },
+    "157": {
+        "id": 157,
+        "name": "Scholarly Pretensions",
+        "category_id": 0,
+        "primo": 5
+    },
+    "158": {
+        "id": 158,
+        "name": "Poet Vs. Paycheck",
+        "category_id": 0,
+        "primo": 5
+    },
+    "159": {
+        "id": 159,
+        "name": "All's Well That Ends Well",
+        "category_id": 0,
+        "primo": 5
+    },
+    "160": {
+        "id": 160,
+        "name": "This Novel Is Amazing!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "161": {
+        "id": 161,
+        "name": "Open to Interpretation",
+        "category_id": 0,
+        "primo": 5
+    },
+    "162": {
+        "id": 162,
+        "name": "Get Your Own Emergency Food!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "163": {
+        "id": 163,
+        "name": "Hidden in Plain Sight",
+        "category_id": 0,
+        "primo": 5
+    },
+    "164": {
+        "id": 164,
+        "name": "Is There But One Truth...?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "165": {
+        "id": 165,
+        "name": "Liyue Ichiban",
+        "category_id": 0,
+        "primo": 5
+    },
+    "166": {
+        "id": 166,
+        "name": "Boom Shaka-Laka, More Boom-Shaka-Laka",
+        "category_id": 0,
+        "primo": 5
+    },
+    "167": {
+        "id": 167,
+        "name": "Meal For Two",
+        "category_id": 0,
+        "primo": 5
+    },
+    "168": {
+        "id": 168,
+        "name": "A Question of Diet",
+        "category_id": 0,
+        "primo": 5
+    },
+    "169": {
+        "id": 169,
+        "name": "Samurice",
+        "category_id": 0,
+        "primo": 5
+    },
+    "170": {
+        "id": 170,
+        "name": "\"Sorry for the Trouble!\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "171": {
+        "id": 171,
+        "name": "Samurai Gourmet",
+        "category_id": 0,
+        "primo": 5
+    },
+    "172": {
+        "id": 172,
+        "name": "Hello...! Anyone in here...?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "173": {
+        "id": 173,
+        "name": "Editorial Opinion",
+        "category_id": 0,
+        "primo": 5
+    },
+    "174": {
+        "id": 174,
+        "name": "You Should Start A Doushin Dojo",
+        "category_id": 0,
+        "primo": 5
+    },
+    "175": {
+        "id": 175,
+        "name": "Guess Who?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "176": {
+        "id": 176,
+        "name": "Nothing to Lose But Time",
+        "category_id": 0,
+        "primo": 5
+    },
+    "177": {
+        "id": 177,
+        "name": "Interview With a Bygone God",
+        "category_id": 0,
+        "primo": 5
+    },
+    "178": {
+        "id": 178,
+        "name": "Crouching Dragon, Hidden Chi",
+        "category_id": 0,
+        "primo": 5
+    },
+    "179": {
+        "id": 179,
+        "name": "Scourge of the Battlefield",
+        "category_id": 0,
+        "primo": 5
+    },
+    "180": {
+        "id": 180,
+        "name": "Shadow Over Luhua Pool",
+        "category_id": 0,
+        "primo": 5
+    },
+    "181": {
+        "id": 181,
+        "name": "Ready Player Zero",
+        "category_id": 0,
+        "primo": 5
+    },
+    "182": {
+        "id": 182,
+        "name": "Trees Should Blend Their Roots and Shade, for That Is Where the Home Is Made",
+        "category_id": 0,
+        "primo": 5
+    },
+    "183": {
+        "id": 183,
+        "name": "Gears of Destiny",
+        "category_id": 0,
+        "primo": 5
+    },
+    "184": {
+        "id": 184,
+        "name": "The Bandit, the Lunatic, and the Pitch-Black Enigma",
+        "category_id": 0,
+        "primo": 5
+    },
+    "185": {
+        "id": 185,
+        "name": "Where Fate Comes to a Crossroads",
+        "category_id": 0,
+        "primo": 5
+    },
+    "186": {
+        "id": 186,
+        "name": "Sneering at the Power of the Gods",
+        "category_id": 0,
+        "primo": 5
+    },
+    "187": {
+        "id": 187,
+        "name": "Silence, You Raving Lunatic",
+        "category_id": 0,
+        "primo": 5
+    },
+    "188": {
+        "id": 188,
+        "name": "We Will Be Reunited",
+        "category_id": 0,
+        "primo": 5
+    },
+    "189": {
+        "id": 189,
+        "name": "The Gathering Storm",
+        "category_id": 0,
+        "primo": 5
+    },
+    "190": {
+        "id": 190,
+        "name": "Ready, Fight!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "191": {
+        "id": 191,
+        "name": "Autumn Winds, Scarlet Leaves",
+        "category_id": 0,
+        "primo": 10
+    },
+    "192": {
+        "id": 192,
+        "name": "Through the Storm",
+        "category_id": 0,
+        "primo": 5
+    },
+    "193": {
+        "id": 193,
+        "name": "Hiiragi Sanjuuro",
+        "category_id": 0,
+        "primo": 5
+    },
+    "194": {
+        "id": 194,
+        "name": "The Aspirations of All",
+        "category_id": 0,
+        "primo": 5
+    },
+    "195": {
+        "id": 195,
+        "name": "The Princess Behind the Curtain",
+        "category_id": 0,
+        "primo": 5
+    },
+    "196": {
+        "id": 196,
+        "name": "Omamori, Justice, Number One",
+        "category_id": 0,
+        "primo": 5
+    },
+    "197": {
+        "id": 197,
+        "name": "Jailhouse Fiesta",
+        "category_id": 0,
+        "primo": 5
+    },
+    "198": {
+        "id": 198,
+        "name": "To Brave the Lightning's Glow",
+        "category_id": 0,
+        "primo": 5
+    },
+    "199": {
+        "id": 199,
+        "name": "Revolutionary Outlander",
+        "category_id": 0,
+        "primo": 5
+    },
+    "200": {
+        "id": 200,
+        "name": "The Immovable God and the Eternal Euthymia",
+        "category_id": 0,
+        "primo": 10
+    },
+    "201": {
+        "id": 201,
+        "name": "Stillness, the Sublimation of Shadow",
+        "category_id": 0,
+        "primo": 10
+    },
+    "202": {
+        "id": 202,
+        "name": "Fantastic Voyage: Prologue",
+        "category_id": 17,
+        "primo": 20
+    },
+    "203": {
+        "id": 203,
+        "name": "Archaic Lord of Lightning and Blitz",
+        "category_id": 17,
+        "primo": 5
+    },
+    "204": {
+        "id": 204,
+        "name": "The Power of Luck",
+        "category_id": 17,
+        "primo": 5
+    },
+    "205": {
+        "id": 205,
+        "name": "Evil Is Banished",
+        "category_id": 17,
+        "primo": 20
+    },
+    "206": {
+        "id": 206,
+        "name": "Behold, Mine Evil-Espying Eye!",
+        "category_id": 17,
+        "primo": 5
+    },
+    "207": {
+        "id": 207,
+        "name": "Red Hot Chili Popsicles",
+        "category_id": 17,
+        "primo": 5
+    },
+    "208": {
+        "id": 208,
+        "name": "A Line That May Be Crossed",
+        "category_id": 17,
+        "primo": 20
+    },
+    "209": {
+        "id": 209,
+        "name": "An Idol's Last Line of Defense",
+        "category_id": 17,
+        "primo": 5
+    },
+    "210": {
+        "id": 210,
+        "name": "Mondstadt's Spiciest Surprise",
+        "category_id": 17,
+        "primo": 5
+    },
+    "211": {
+        "id": 211,
+        "name": "A Maid of Strength and Virtue",
+        "category_id": 17,
+        "primo": 20
+    },
+    "212": {
+        "id": 212,
+        "name": "\"...For I Am Duty Bound\"",
+        "category_id": 17,
+        "primo": 5
+    },
+    "213": {
+        "id": 213,
+        "name": "A World Known Only Unto Roses",
+        "category_id": 17,
+        "primo": 5
+    },
+    "214": {
+        "id": 214,
+        "name": "Stress Relief",
+        "category_id": 17,
+        "primo": 20
+    },
+    "215": {
+        "id": 215,
+        "name": "Invulnerable Maid-Knight",
+        "category_id": 17,
+        "primo": 5
+    },
+    "216": {
+        "id": 216,
+        "name": "Mondstadt's Note-Taker General",
+        "category_id": 17,
+        "primo": 5
+    },
+    "217": {
+        "id": 217,
+        "name": "Diona Special, Stirred, Not Shaken",
+        "category_id": 17,
+        "primo": 20
+    },
+    "218": {
+        "id": 218,
+        "name": "But There's a Catch...",
+        "category_id": 17,
+        "primo": 5
+    },
+    "219": {
+        "id": 219,
+        "name": "Kitten Queen",
+        "category_id": 17,
+        "primo": 5
+    },
+    "220": {
+        "id": 220,
+        "name": "The Wind and The Star Traveler",
+        "category_id": 1,
+        "primo": 5
+    },
+    "221": {
+        "id": 221,
+        "name": "Of Mountains High",
+        "category_id": 1,
+        "primo": 5
+    },
+    "222": {
+        "id": 222,
+        "name": "The Voice of Flowing Water",
+        "category_id": 1,
+        "primo": 5
+    },
+    "223": {
+        "id": 223,
+        "name": "The Divine Halberd Mocks the Heavens",
+        "category_id": 1,
+        "primo": 5
+    },
+    "224": {
+        "id": 224,
+        "name": "The Drunkard and the Wolf",
+        "category_id": 1,
+        "primo": 5
+    },
+    "225": {
+        "id": 225,
+        "name": "Spring, White Horse and Moonlight",
+        "category_id": 1,
+        "primo": 5
+    },
+    "226": {
+        "id": 226,
+        "name": "Unlimited Power!",
+        "category_id": 22,
+        "primo": 5
+    },
+    "227": {
+        "id": 227,
+        "name": "Land of Dandelions",
+        "category_id": 22,
+        "primo": 5
+    },
+    "228": {
+        "id": 228,
+        "name": "True Friendship Takes Sacrifice",
+        "category_id": 22,
+        "primo": 5
+    },
+    "229": {
+        "id": 229,
+        "name": "Eternal Youth",
+        "category_id": 22,
+        "primo": 5
+    },
+    "230": {
+        "id": 230,
+        "name": "Hilichurlian Studies Expert",
+        "category_id": 22,
+        "primo": 5
+    },
+    "231": {
+        "id": 231,
+        "name": "Taking Shape",
+        "category_id": 2,
+        "primo": 10
+    },
+    "232": {
+        "id": 232,
+        "name": "Survival Expert",
+        "category_id": 2,
+        "primo": 5
+    },
+    "233": {
+        "id": 233,
+        "name": "Survival Expert",
+        "category_id": 2,
+        "primo": 10
+    },
+    "234": {
+        "id": 234,
+        "name": "Survival Expert",
+        "category_id": 2,
+        "primo": 20
+    },
+    "235": {
+        "id": 235,
+        "name": "Star Chef",
+        "category_id": 2,
+        "primo": 5
+    },
+    "236": {
+        "id": 236,
+        "name": "Star Chef",
+        "category_id": 2,
+        "primo": 10
+    },
+    "237": {
+        "id": 237,
+        "name": "Star Chef",
+        "category_id": 2,
+        "primo": 20
+    },
+    "238": {
+        "id": 238,
+        "name": "Onward and Upward",
+        "category_id": 3,
+        "primo": 5
+    },
+    "239": {
+        "id": 239,
+        "name": "Onward and Upward",
+        "category_id": 3,
+        "primo": 10
+    },
+    "240": {
+        "id": 240,
+        "name": "Onward and Upward",
+        "category_id": 3,
+        "primo": 20
+    },
+    "241": {
+        "id": 241,
+        "name": "Re-Armed, Re-Forged",
+        "category_id": 3,
+        "primo": 5
+    },
+    "242": {
+        "id": 242,
+        "name": "Re-Armed, Re-Forged",
+        "category_id": 3,
+        "primo": 10
+    },
+    "243": {
+        "id": 243,
+        "name": "Re-Armed, Re-Forged",
+        "category_id": 3,
+        "primo": 20
+    },
+    "244": {
+        "id": 244,
+        "name": "Hitherto Unknown",
+        "category_id": 3,
+        "primo": 5
+    },
+    "245": {
+        "id": 245,
+        "name": "Hitherto Unknown",
+        "category_id": 3,
+        "primo": 10
+    },
+    "246": {
+        "id": 246,
+        "name": "Hitherto Unknown",
+        "category_id": 3,
+        "primo": 20
+    },
+    "247": {
+        "id": 247,
+        "name": "Bounty of the Earth",
+        "category_id": 3,
+        "primo": 5
+    },
+    "248": {
+        "id": 248,
+        "name": "Bounty of the Earth",
+        "category_id": 3,
+        "primo": 10
+    },
+    "249": {
+        "id": 249,
+        "name": "Bounty of the Earth",
+        "category_id": 3,
+        "primo": 20
+    },
+    "250": {
+        "id": 250,
+        "name": "Hero's Gift",
+        "category_id": 3,
+        "primo": 5
+    },
+    "251": {
+        "id": 251,
+        "name": "Echoing Song",
+        "category_id": 3,
+        "primo": 10
+    },
+    "252": {
+        "id": 252,
+        "name": "Legendary Treasure",
+        "category_id": 3,
+        "primo": 5
+    },
+    "253": {
+        "id": 253,
+        "name": "Sacred Canto",
+        "category_id": 3,
+        "primo": 10
+    },
+    "254": {
+        "id": 254,
+        "name": "Continental Explorer: Mondstadt",
+        "category_id": 4,
+        "primo": 5
+    },
+    "255": {
+        "id": 255,
+        "name": "Brush of a Thousand Winds",
+        "category_id": 4,
+        "primo": 5
+    },
+    "256": {
+        "id": 256,
+        "name": "Let the Wind Lead",
+        "category_id": 4,
+        "primo": 20
+    },
+    "257": {
+        "id": 257,
+        "name": "Sanctuary Pilgrim: Mondstadt",
+        "category_id": 4,
+        "primo": 10
+    },
+    "258": {
+        "id": 258,
+        "name": "Guiding Wind",
+        "category_id": 4,
+        "primo": 5
+    },
+    "259": {
+        "id": 259,
+        "name": "Guiding Wind",
+        "category_id": 4,
+        "primo": 10
+    },
+    "260": {
+        "id": 260,
+        "name": "Guiding Wind",
+        "category_id": 4,
+        "primo": 20
+    },
+    "261": {
+        "id": 261,
+        "name": "Wind-Chasing Treasure Hunter",
+        "category_id": 4,
+        "primo": 5
+    },
+    "262": {
+        "id": 262,
+        "name": "Wind-Chasing Treasure Hunter",
+        "category_id": 4,
+        "primo": 10
+    },
+    "263": {
+        "id": 263,
+        "name": "Wind-Chasing Treasure Hunter",
+        "category_id": 4,
+        "primo": 20
+    },
+    "264": {
+        "id": 264,
+        "name": "Wind-Chasing Adventurer",
+        "category_id": 4,
+        "primo": 5
+    },
+    "265": {
+        "id": 265,
+        "name": "Wind-Chasing Adventurer",
+        "category_id": 4,
+        "primo": 10
+    },
+    "266": {
+        "id": 266,
+        "name": "Wind-Chasing Adventurer",
+        "category_id": 4,
+        "primo": 20
+    },
+    "267": {
+        "id": 267,
+        "name": "Continental Explorer: Liyue",
+        "category_id": 5,
+        "primo": 5
+    },
+    "268": {
+        "id": 268,
+        "name": "Surveyor of Stone",
+        "category_id": 5,
+        "primo": 5
+    },
+    "269": {
+        "id": 269,
+        "name": "Unmovable Mountain",
+        "category_id": 5,
+        "primo": 20
+    },
+    "270": {
+        "id": 270,
+        "name": "Sanctuary Pilgrim: Liyue",
+        "category_id": 5,
+        "primo": 10
+    },
+    "271": {
+        "id": 271,
+        "name": "Lithic Guide",
+        "category_id": 5,
+        "primo": 5
+    },
+    "272": {
+        "id": 272,
+        "name": "Lithic Guide",
+        "category_id": 5,
+        "primo": 10
+    },
+    "273": {
+        "id": 273,
+        "name": "Lithic Guide",
+        "category_id": 5,
+        "primo": 20
+    },
+    "274": {
+        "id": 274,
+        "name": "Rock-Steady Treasure Hunter",
+        "category_id": 5,
+        "primo": 5
+    },
+    "275": {
+        "id": 275,
+        "name": "Rock-Steady Treasure Hunter",
+        "category_id": 5,
+        "primo": 10
+    },
+    "276": {
+        "id": 276,
+        "name": "Rock-Steady Treasure Hunter",
+        "category_id": 5,
+        "primo": 20
+    },
+    "277": {
+        "id": 277,
+        "name": "Rock-Steady Adventurer",
+        "category_id": 5,
+        "primo": 5
+    },
+    "278": {
+        "id": 278,
+        "name": "Rock-Steady Adventurer",
+        "category_id": 5,
+        "primo": 10
+    },
+    "279": {
+        "id": 279,
+        "name": "Rock-Steady Adventurer",
+        "category_id": 5,
+        "primo": 20
+    },
+    "280": {
+        "id": 280,
+        "name": "Cool It!",
+        "category_id": 6,
+        "primo": 5
+    },
+    "281": {
+        "id": 281,
+        "name": "Cool It!",
+        "category_id": 6,
+        "primo": 10
+    },
+    "282": {
+        "id": 282,
+        "name": "Cool It!",
+        "category_id": 6,
+        "primo": 20
+    },
+    "283": {
+        "id": 283,
+        "name": "Go With the Wind!",
+        "category_id": 6,
+        "primo": 5
+    },
+    "284": {
+        "id": 284,
+        "name": "Go With the Wind!",
+        "category_id": 6,
+        "primo": 10
+    },
+    "285": {
+        "id": 285,
+        "name": "Go With the Wind!",
+        "category_id": 6,
+        "primo": 20
+    },
+    "286": {
+        "id": 286,
+        "name": "Season's Greetings",
+        "category_id": 6,
+        "primo": 5
+    },
+    "287": {
+        "id": 287,
+        "name": "Season's Greetings",
+        "category_id": 6,
+        "primo": 10
+    },
+    "288": {
+        "id": 288,
+        "name": "Season's Greetings",
+        "category_id": 6,
+        "primo": 20
+    },
+    "289": {
+        "id": 289,
+        "name": "Performance May Decline in Low Temperatures",
+        "category_id": 6,
+        "primo": 5
+    },
+    "290": {
+        "id": 290,
+        "name": "Performance May Decline in Low Temperatures",
+        "category_id": 6,
+        "primo": 10
+    },
+    "291": {
+        "id": 291,
+        "name": "Performance May Decline in Low Temperatures",
+        "category_id": 6,
+        "primo": 20
+    },
+    "292": {
+        "id": 292,
+        "name": "The Art of War",
+        "category_id": 6,
+        "primo": 5
+    },
+    "293": {
+        "id": 293,
+        "name": "The Art of War",
+        "category_id": 6,
+        "primo": 10
+    },
+    "294": {
+        "id": 294,
+        "name": "The Art of War",
+        "category_id": 6,
+        "primo": 20
+    },
+    "295": {
+        "id": 295,
+        "name": "Melt You Down Like Ice Cream",
+        "category_id": 6,
+        "primo": 5
+    },
+    "296": {
+        "id": 296,
+        "name": "Melt You Down Like Ice Cream",
+        "category_id": 6,
+        "primo": 10
+    },
+    "297": {
+        "id": 297,
+        "name": "Melt You Down Like Ice Cream",
+        "category_id": 6,
+        "primo": 20
+    },
+    "298": {
+        "id": 298,
+        "name": "A Little Less Shocking Than Love at First Sight",
+        "category_id": 6,
+        "primo": 5
+    },
+    "299": {
+        "id": 299,
+        "name": "A Little Less Shocking Than Love at First Sight",
+        "category_id": 6,
+        "primo": 10
+    },
+    "300": {
+        "id": 300,
+        "name": "A Little Less Shocking Than Love at First Sight",
+        "category_id": 6,
+        "primo": 20
+    },
+    "301": {
+        "id": 301,
+        "name": "Nothing Special, Just Practice",
+        "category_id": 7,
+        "primo": 5
+    },
+    "302": {
+        "id": 302,
+        "name": "Master Sniper",
+        "category_id": 7,
+        "primo": 5
+    },
+    "303": {
+        "id": 303,
+        "name": "Der Freischütz",
+        "category_id": 7,
+        "primo": 5
+    },
+    "304": {
+        "id": 304,
+        "name": "Full Metal What Now?",
+        "category_id": 8,
+        "primo": 5
+    },
+    "305": {
+        "id": 305,
+        "name": "Are Plasma Globes Still in Fashion?",
+        "category_id": 8,
+        "primo": 5
+    },
+    "306": {
+        "id": 306,
+        "name": "Rhythm Tengoku",
+        "category_id": 8,
+        "primo": 5
+    },
+    "307": {
+        "id": 307,
+        "name": "Blazing Dadaupa",
+        "category_id": 8,
+        "primo": 5
+    },
+    "308": {
+        "id": 308,
+        "name": "Hydro Hunter",
+        "category_id": 14,
+        "primo": 5
+    },
+    "309": {
+        "id": 309,
+        "name": "Dip, Duck, Dive, Dodge, Defeat",
+        "category_id": 14,
+        "primo": 10
+    },
+    "310": {
+        "id": 310,
+        "name": "...Well, That Was Strange",
+        "category_id": 14,
+        "primo": 5
+    },
+    "311": {
+        "id": 311,
+        "name": "...Well, That Was Strange",
+        "category_id": 14,
+        "primo": 10
+    },
+    "312": {
+        "id": 312,
+        "name": "...Well, That Was Strange",
+        "category_id": 14,
+        "primo": 20
+    },
+    "313": {
+        "id": 313,
+        "name": "Extreme Gardening",
+        "category_id": 14,
+        "primo": 5
+    },
+    "314": {
+        "id": 314,
+        "name": "Gardener Extraordinaire",
+        "category_id": 14,
+        "primo": 5
+    },
+    "315": {
+        "id": 315,
+        "name": "Geronimo!",
+        "category_id": 14,
+        "primo": 5
+    },
+    "316": {
+        "id": 316,
+        "name": "Vicious Circle",
+        "category_id": 14,
+        "primo": 10
+    },
+    "317": {
+        "id": 317,
+        "name": "Shield Me From the World",
+        "category_id": 14,
+        "primo": 10
+    },
+    "318": {
+        "id": 318,
+        "name": "Turnover",
+        "category_id": 15,
+        "primo": 5
+    },
+    "319": {
+        "id": 319,
+        "name": "Tear Down This Wall!",
+        "category_id": 15,
+        "primo": 5
+    },
+    "320": {
+        "id": 320,
+        "name": "No Ice for Me, Thanks",
+        "category_id": 15,
+        "primo": 5
+    },
+    "321": {
+        "id": 321,
+        "name": "...The Harder They Fall",
+        "category_id": 15,
+        "primo": 5
+    },
+    "322": {
+        "id": 322,
+        "name": "Chilly-Churl",
+        "category_id": 15,
+        "primo": 10
+    },
+    "323": {
+        "id": 323,
+        "name": "\"Rosebud...\"",
+        "category_id": 15,
+        "primo": 5
+    },
+    "324": {
+        "id": 324,
+        "name": "Assassin of Kings",
+        "category_id": 15,
+        "primo": 10
+    },
+    "325": {
+        "id": 325,
+        "name": "David and Goliath",
+        "category_id": 15,
+        "primo": 5
+    },
+    "326": {
+        "id": 326,
+        "name": "...Geovishap, Solarvishap, Lunarvishap...",
+        "category_id": 20,
+        "primo": 5
+    },
+    "327": {
+        "id": 327,
+        "name": "Geo Elemental Reaction?",
+        "category_id": 20,
+        "primo": 10
+    },
+    "328": {
+        "id": 328,
+        "name": "Puppet Show-Off",
+        "category_id": 20,
+        "primo": 5
+    },
+    "329": {
+        "id": 329,
+        "name": "Totaled Totem",
+        "category_id": 20,
+        "primo": 5
+    },
+    "330": {
+        "id": 330,
+        "name": "Did My Hand Fall From My Wrist?",
+        "category_id": 20,
+        "primo": 5
+    },
+    "331": {
+        "id": 331,
+        "name": "I'll Skip the Spa, Thanks",
+        "category_id": 20,
+        "primo": 5
+    },
+    "332": {
+        "id": 332,
+        "name": "It's Quiet... Too Quiet...",
+        "category_id": 20,
+        "primo": 5
+    },
+    "333": {
+        "id": 333,
+        "name": "The Battle of Narukami Island",
+        "category_id": 20,
+        "primo": 5
+    },
+    "334": {
+        "id": 334,
+        "name": "The Finishing Touch",
+        "category_id": 20,
+        "primo": 10
+    },
+    "335": {
+        "id": 335,
+        "name": "Down We Go",
+        "category_id": 9,
+        "primo": 5
+    },
+    "336": {
+        "id": 336,
+        "name": "Down We Go",
+        "category_id": 9,
+        "primo": 10
+    },
+    "337": {
+        "id": 337,
+        "name": "Down We Go",
+        "category_id": 9,
+        "primo": 20
+    },
+    "338": {
+        "id": 338,
+        "name": "Down to Dodge",
+        "category_id": 9,
+        "primo": 5
+    },
+    "339": {
+        "id": 339,
+        "name": "Down to Dodge",
+        "category_id": 9,
+        "primo": 10
+    },
+    "340": {
+        "id": 340,
+        "name": "Down to Dodge",
+        "category_id": 9,
+        "primo": 20
+    },
+    "341": {
+        "id": 341,
+        "name": "My Precious",
+        "category_id": 9,
+        "primo": 10
+    },
+    "342": {
+        "id": 342,
+        "name": "Abyssal Crusader",
+        "category_id": 9,
+        "primo": 20
+    },
+    "343": {
+        "id": 343,
+        "name": "...Odomu?",
+        "category_id": 10,
+        "primo": 5
+    },
+    "344": {
+        "id": 344,
+        "name": "Yo dala?",
+        "category_id": 10,
+        "primo": 5
+    },
+    "345": {
+        "id": 345,
+        "name": "Perfectionist",
+        "category_id": 11,
+        "primo": 5
+    },
+    "346": {
+        "id": 346,
+        "name": "Telling It How It Is",
+        "category_id": 11,
+        "primo": 5
+    },
+    "347": {
+        "id": 347,
+        "name": "Geo Archon Anecdotes",
+        "category_id": 12,
+        "primo": 5
+    },
+    "348": {
+        "id": 348,
+        "name": "Friends, Travelers, Lend Me Your Ears...",
+        "category_id": 12,
+        "primo": 5
+    },
+    "349": {
+        "id": 349,
+        "name": "Once Upon a Time...",
+        "category_id": 12,
+        "primo": 5
+    },
+    "350": {
+        "id": 350,
+        "name": "You Came, You Saw, We Co-Oped",
+        "category_id": 13,
+        "primo": 5
+    },
+    "351": {
+        "id": 351,
+        "name": "You Came, You Saw, We Co-Oped",
+        "category_id": 13,
+        "primo": 10
+    },
+    "352": {
+        "id": 352,
+        "name": "You Came, You Saw, We Co-Oped",
+        "category_id": 13,
+        "primo": 20
+    },
+    "353": {
+        "id": 353,
+        "name": "I Came, I Saw, I Conquered",
+        "category_id": 13,
+        "primo": 5
+    },
+    "354": {
+        "id": 354,
+        "name": "I Came, I Saw, I Conquered",
+        "category_id": 13,
+        "primo": 10
+    },
+    "355": {
+        "id": 355,
+        "name": "I Came, I Saw, I Conquered",
+        "category_id": 13,
+        "primo": 20
+    },
+    "356": {
+        "id": 356,
+        "name": "That's One Big Crystalfly",
+        "category_id": 13,
+        "primo": 10
+    },
+    "357": {
+        "id": 357,
+        "name": "...And Still Smiling!",
+        "category_id": 13,
+        "primo": 10
+    },
+    "358": {
+        "id": 358,
+        "name": "You Have to Hit the Pillars",
+        "category_id": 13,
+        "primo": 10
+    },
+    "359": {
+        "id": 359,
+        "name": "Just Me and You, the Sky So Blue, and Almost Getting Killed by a Cryo Regisvine",
+        "category_id": 13,
+        "primo": 10
+    },
+    "360": {
+        "id": 360,
+        "name": "This Is Fine",
+        "category_id": 13,
+        "primo": 10
+    },
+    "361": {
+        "id": 361,
+        "name": "A Fish Called Rhodeia",
+        "category_id": 13,
+        "primo": 10
+    },
+    "362": {
+        "id": 362,
+        "name": "Wolf Pact",
+        "category_id": 13,
+        "primo": 10
+    },
+    "363": {
+        "id": 363,
+        "name": "A Delusion's Abilities Don't Decide a Battle's Outcome",
+        "category_id": 21,
+        "primo": 10
+    },
+    "364": {
+        "id": 364,
+        "name": "Moving Mountains",
+        "category_id": 21,
+        "primo": 10
+    },
+    "365": {
+        "id": 365,
+        "name": "Blast From the Past",
+        "category_id": 21,
+        "primo": 10
+    },
+    "366": {
+        "id": 366,
+        "name": "Put on Ice",
+        "category_id": 21,
+        "primo": 10
+    },
+    "367": {
+        "id": 367,
+        "name": "No Strings Attached, Anymore",
+        "category_id": 21,
+        "primo": 10
+    },
+    "368": {
+        "id": 368,
+        "name": "Operation Bonfire",
+        "category_id": 21,
+        "primo": 10
+    },
+    "369": {
+        "id": 369,
+        "name": "The Not-So-Perpetual Mechanical Array",
+        "category_id": 21,
+        "primo": 10
+    },
+    "370": {
+        "id": 370,
+        "name": "Continental Explorer: Dragonspine",
+        "category_id": 16,
+        "primo": 5
+    },
+    "371": {
+        "id": 371,
+        "name": "Peak Hopper",
+        "category_id": 16,
+        "primo": 5
+    },
+    "372": {
+        "id": 372,
+        "name": "Seelie in the Snow",
+        "category_id": 16,
+        "primo": 5
+    },
+    "373": {
+        "id": 373,
+        "name": "Seelie in the Snow",
+        "category_id": 16,
+        "primo": 10
+    },
+    "374": {
+        "id": 374,
+        "name": "Seelie in the Snow",
+        "category_id": 16,
+        "primo": 20
+    },
+    "375": {
+        "id": 375,
+        "name": "Mountain of Treasure",
+        "category_id": 16,
+        "primo": 5
+    },
+    "376": {
+        "id": 376,
+        "name": "Mountain of Treasure",
+        "category_id": 16,
+        "primo": 10
+    },
+    "377": {
+        "id": 377,
+        "name": "Mountain of Treasure",
+        "category_id": 16,
+        "primo": 20
+    },
+    "378": {
+        "id": 378,
+        "name": "Scarlet Sprouts",
+        "category_id": 16,
+        "primo": 5
+    },
+    "379": {
+        "id": 379,
+        "name": "Scarlet Sprouts",
+        "category_id": 16,
+        "primo": 10
+    },
+    "380": {
+        "id": 380,
+        "name": "Scarlet Sprouts",
+        "category_id": 16,
+        "primo": 20
+    },
+    "381": {
+        "id": 381,
+        "name": "Skyfrost Nail",
+        "category_id": 16,
+        "primo": 10
+    },
+    "382": {
+        "id": 382,
+        "name": "Dragonspear",
+        "category_id": 16,
+        "primo": 10
+    },
+    "383": {
+        "id": 383,
+        "name": "Realm Sans Frontières",
+        "category_id": 18,
+        "primo": 5
+    },
+    "384": {
+        "id": 384,
+        "name": "High Adeptal Energy Readings Ahead",
+        "category_id": 18,
+        "primo": 5
+    },
+    "385": {
+        "id": 385,
+        "name": "High Adeptal Energy Readings Ahead",
+        "category_id": 18,
+        "primo": 10
+    },
+    "386": {
+        "id": 386,
+        "name": "High Adeptal Energy Readings Ahead",
+        "category_id": 18,
+        "primo": 20
+    },
+    "387": {
+        "id": 387,
+        "name": "Friend of the Realm",
+        "category_id": 18,
+        "primo": 5
+    },
+    "388": {
+        "id": 388,
+        "name": "Friend of the Realm",
+        "category_id": 18,
+        "primo": 10
+    },
+    "389": {
+        "id": 389,
+        "name": "Friend of the Realm",
+        "category_id": 18,
+        "primo": 20
+    },
+    "390": {
+        "id": 390,
+        "name": "T—T—T—Timberhochwandi",
+        "category_id": 18,
+        "primo": 5
+    },
+    "391": {
+        "id": 391,
+        "name": "T—T—T—Timberhochwandi",
+        "category_id": 18,
+        "primo": 10
+    },
+    "392": {
+        "id": 392,
+        "name": "T—T—T—Timberhochwandi",
+        "category_id": 18,
+        "primo": 20
+    },
+    "393": {
+        "id": 393,
+        "name": "If I Were a Rich Man",
+        "category_id": 18,
+        "primo": 5
+    },
+    "394": {
+        "id": 394,
+        "name": "If I Were a Rich Man",
+        "category_id": 18,
+        "primo": 10
+    },
+    "395": {
+        "id": 395,
+        "name": "If I Were a Rich Man",
+        "category_id": 18,
+        "primo": 20
+    },
+    "396": {
+        "id": 396,
+        "name": "Not Just a Small Bench",
+        "category_id": 18,
+        "primo": 5
+    },
+    "397": {
+        "id": 397,
+        "name": "Not Just a Small Bench",
+        "category_id": 18,
+        "primo": 10
+    },
+    "398": {
+        "id": 398,
+        "name": "Not Just a Small Bench",
+        "category_id": 18,
+        "primo": 20
+    },
+    "399": {
+        "id": 399,
+        "name": "Color It In",
+        "category_id": 18,
+        "primo": 5
+    },
+    "400": {
+        "id": 400,
+        "name": "Color It In",
+        "category_id": 18,
+        "primo": 10
+    },
+    "401": {
+        "id": 401,
+        "name": "Color It In",
+        "category_id": 18,
+        "primo": 20
+    },
+    "402": {
+        "id": 402,
+        "name": "Precision Modeling",
+        "category_id": 18,
+        "primo": 5
+    },
+    "403": {
+        "id": 403,
+        "name": "Precision Modeling",
+        "category_id": 18,
+        "primo": 10
+    },
+    "404": {
+        "id": 404,
+        "name": "Precision Modeling",
+        "category_id": 18,
+        "primo": 20
+    },
+    "405": {
+        "id": 405,
+        "name": "My... Territory",
+        "category_id": 18,
+        "primo": 5
+    },
+    "406": {
+        "id": 406,
+        "name": "My... Territory",
+        "category_id": 18,
+        "primo": 10
+    },
+    "407": {
+        "id": 407,
+        "name": "My... Territory",
+        "category_id": 18,
+        "primo": 20
+    },
+    "408": {
+        "id": 408,
+        "name": "Honored Guest of the Realm",
+        "category_id": 19,
+        "primo": 5
+    },
+    "409": {
+        "id": 409,
+        "name": "Fireside Chats",
+        "category_id": 19,
+        "primo": 5
+    },
+    "410": {
+        "id": 410,
+        "name": "Fireside Chats",
+        "category_id": 19,
+        "primo": 10
+    },
+    "411": {
+        "id": 411,
+        "name": "Fireside Chats",
+        "category_id": 19,
+        "primo": 20
+    },
+    "412": {
+        "id": 412,
+        "name": "Gifts All Around",
+        "category_id": 19,
+        "primo": 5
+    },
+    "413": {
+        "id": 413,
+        "name": "Gifts All Around",
+        "category_id": 19,
+        "primo": 10
+    },
+    "414": {
+        "id": 414,
+        "name": "Gifts All Around",
+        "category_id": 19,
+        "primo": 20
+    },
+    "415": {
+        "id": 415,
+        "name": "Just Like a Game of Chess",
+        "category_id": 23,
+        "primo": 5
+    },
+    "416": {
+        "id": 416,
+        "name": "We're Going to Need More Crops!",
+        "category_id": 23,
+        "primo": 5
+    },
+    "417": {
+        "id": 417,
+        "name": "We're Going to Need More Crops!",
+        "category_id": 23,
+        "primo": 10
+    },
+    "418": {
+        "id": 418,
+        "name": "We're Going to Need More Crops!",
+        "category_id": 23,
+        "primo": 20
+    },
+    "419": {
+        "id": 419,
+        "name": "My Blooming Abode",
+        "category_id": 23,
+        "primo": 5
+    },
+    "420": {
+        "id": 420,
+        "name": "My Blooming Abode",
+        "category_id": 23,
+        "primo": 10
+    },
+    "421": {
+        "id": 421,
+        "name": "My Blooming Abode",
+        "category_id": 23,
+        "primo": 20
+    },
+    "422": {
+        "id": 422,
+        "name": "Stop! Gather Time.",
+        "category_id": 23,
+        "primo": 5
+    },
+    "423": {
+        "id": 423,
+        "name": "Stop! Gather Time.",
+        "category_id": 23,
+        "primo": 10
+    },
+    "424": {
+        "id": 424,
+        "name": "Stop! Gather Time.",
+        "category_id": 23,
+        "primo": 20
+    },
+    "425": {
+        "id": 425,
+        "name": "Continental Explorer: Land of Surging Thunder (I)",
+        "category_id": 24,
+        "primo": 5
+    },
+    "426": {
+        "id": 426,
+        "name": "Thunderbolting Across the Land (I)",
+        "category_id": 24,
+        "primo": 5
+    },
+    "427": {
+        "id": 427,
+        "name": "Sanctuary Pilgrim: Inazuma Tenryou (I)",
+        "category_id": 24,
+        "primo": 10
+    },
+    "428": {
+        "id": 428,
+        "name": "Eternal Thunder",
+        "category_id": 24,
+        "primo": 20
+    },
+    "429": {
+        "id": 429,
+        "name": "Divine Roots",
+        "category_id": 24,
+        "primo": 20
+    },
+    "430": {
+        "id": 430,
+        "name": "Naku Weed Whacker (I)",
+        "category_id": 24,
+        "primo": 5
+    },
+    "431": {
+        "id": 431,
+        "name": "Naku Weed Whacker (I)",
+        "category_id": 24,
+        "primo": 10
+    },
+    "432": {
+        "id": 432,
+        "name": "Naku Weed Whacker (I)",
+        "category_id": 24,
+        "primo": 20
+    },
+    "433": {
+        "id": 433,
+        "name": "Lights Will Guide You Home (I)",
+        "category_id": 24,
+        "primo": 5
+    },
+    "434": {
+        "id": 434,
+        "name": "Lights Will Guide You Home (I)",
+        "category_id": 24,
+        "primo": 10
+    },
+    "435": {
+        "id": 435,
+        "name": "Lights Will Guide You Home (I)",
+        "category_id": 24,
+        "primo": 20
+    },
+    "436": {
+        "id": 436,
+        "name": "Lightning-Riding Treasure Hunter (I)",
+        "category_id": 24,
+        "primo": 5
+    },
+    "437": {
+        "id": 437,
+        "name": "Lightning-Riding Treasure Hunter (I)",
+        "category_id": 24,
+        "primo": 10
+    },
+    "438": {
+        "id": 438,
+        "name": "Lightning-Riding Treasure Hunter (I)",
+        "category_id": 24,
+        "primo": 20
+    },
+    "439": {
+        "id": 439,
+        "name": "Lightning-Riding Adventurer (I)",
+        "category_id": 24,
+        "primo": 5
+    },
+    "440": {
+        "id": 440,
+        "name": "Lightning-Riding Adventurer (I)",
+        "category_id": 24,
+        "primo": 10
+    },
+    "441": {
+        "id": 441,
+        "name": "Lightning-Riding Adventurer (I)",
+        "category_id": 24,
+        "primo": 20
+    },
+    "442": {
+        "id": 442,
+        "name": "Spring Cleaning",
+        "category_id": 24,
+        "primo": 10
+    },
+    "443": {
+        "id": 443,
+        "name": "Tatara Tales",
+        "category_id": 24,
+        "primo": 10
+    },
+    "444": {
+        "id": 444,
+        "name": "Echo of Fury",
+        "category_id": 24,
+        "primo": 10
+    },
+    "445": {
+        "id": 445,
+        "name": "Continental Explorer: Land of Surging Thunder (II)",
+        "category_id": 26,
+        "primo": 5
+    },
+    "446": {
+        "id": 446,
+        "name": "Thunderbolting Across the Land (II)",
+        "category_id": 26,
+        "primo": 5
+    },
+    "447": {
+        "id": 447,
+        "name": "Sanctuary Pilgrim: Inazuma Tenryou (II)",
+        "category_id": 26,
+        "primo": 10
+    },
+    "448": {
+        "id": 448,
+        "name": "Naku Weed Whacker (II)",
+        "category_id": 26,
+        "primo": 5
+    },
+    "449": {
+        "id": 449,
+        "name": "Naku Weed Whacker (II)",
+        "category_id": 26,
+        "primo": 10
+    },
+    "450": {
+        "id": 450,
+        "name": "Naku Weed Whacker (II)",
+        "category_id": 26,
+        "primo": 20
+    },
+    "451": {
+        "id": 451,
+        "name": "Lights Will Guide You Home (II)",
+        "category_id": 26,
+        "primo": 5
+    },
+    "452": {
+        "id": 452,
+        "name": "Lightning-Riding Treasure Hunter (II)",
+        "category_id": 26,
+        "primo": 5
+    },
+    "453": {
+        "id": 453,
+        "name": "Lightning-Riding Treasure Hunter (II)",
+        "category_id": 26,
+        "primo": 10
+    },
+    "454": {
+        "id": 454,
+        "name": "Lightning-Riding Treasure Hunter (II)",
+        "category_id": 26,
+        "primo": 20
+    },
+    "455": {
+        "id": 455,
+        "name": "Lightning-Riding Adventurer (II)",
+        "category_id": 26,
+        "primo": 5
+    },
+    "456": {
+        "id": 456,
+        "name": "Lightning-Riding Adventurer (II)",
+        "category_id": 26,
+        "primo": 10
+    },
+    "457": {
+        "id": 457,
+        "name": "Lightning-Riding Adventurer (II)",
+        "category_id": 26,
+        "primo": 20
+    },
+    "458": {
+        "id": 458,
+        "name": "Seirai Stormchasers",
+        "category_id": 26,
+        "primo": 10
+    },
+    "459": {
+        "id": 459,
+        "name": "The Same Moonlight",
+        "category_id": 26,
+        "primo": 10
+    },
+    "460": {
+        "id": 460,
+        "name": "Amateurs Hammer Nails Into Hooks",
+        "category_id": 25,
+        "primo": 5
+    },
+    "461": {
+        "id": 461,
+        "name": "\"Do you need a fishtank to go with that?\"",
+        "category_id": 25,
+        "primo": 10
+    },
+    "462": {
+        "id": 462,
+        "name": "Yon Mirror'd Moon, Broken",
+        "category_id": 25,
+        "primo": 5
+    },
+    "463": {
+        "id": 463,
+        "name": "Ding Ding Ding!",
+        "category_id": 25,
+        "primo": 5
+    },
+    "464": {
+        "id": 464,
+        "name": "Ding Ding Ding!",
+        "category_id": 25,
+        "primo": 10
+    },
+    "465": {
+        "id": 465,
+        "name": "Ding Ding Ding!",
+        "category_id": 25,
+        "primo": 20
+    },
+    "466": {
+        "id": 466,
+        "name": "\"Call Me Ishmael.\"",
+        "category_id": 25,
+        "primo": 5
+    },
+    "467": {
+        "id": 467,
+        "name": "Fishy Motive",
+        "category_id": 25,
+        "primo": 10
+    },
+    "468": {
+        "id": 468,
+        "name": "Into the Waters",
+        "category_id": 25,
+        "primo": 5
+    },
+    "469": {
+        "id": 469,
+        "name": "A Right Proper Angler",
+        "category_id": 25,
+        "primo": 10
+    },
+    "470": {
+        "id": 470,
+        "name": "\"That's What They Call a Getaway!\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "471": {
+        "id": 471,
+        "name": "\"Oh, so That's How You Fish...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "472": {
+        "id": 472,
+        "name": "Stabilizer",
+        "category_id": 25,
+        "primo": 5
+    },
+    "473": {
+        "id": 473,
+        "name": "Intermission",
+        "category_id": 25,
+        "primo": 5
+    },
+    "474": {
+        "id": 474,
+        "name": "As You Wish",
+        "category_id": 0,
+        "primo": 5
+    },
+    "475": {
+        "id": 475,
+        "name": "A Mermaid's Tale",
+        "category_id": 0,
+        "primo": 5
+    },
+    "476": {
+        "id": 476,
+        "name": "A Distant Sea Shepherd's Treasure",
+        "category_id": 0,
+        "primo": 5
+    },
+    "477": {
+        "id": 477,
+        "name": "Long John Silver",
+        "category_id": 0,
+        "primo": 5
+    },
+    "478": {
+        "id": 478,
+        "name": "Today, This Seal — Tomorrow, Watatsumi Island!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "479": {
+        "id": 479,
+        "name": "Palace in a Pool",
+        "category_id": 0,
+        "primo": 5
+    },
+    "480": {
+        "id": 480,
+        "name": "The Stranding of the Beagle",
+        "category_id": 0,
+        "primo": 5
+    },
+    "481": {
+        "id": 481,
+        "name": "\"I am a cat named Neko.\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "482": {
+        "id": 482,
+        "name": "Cat in the Clouds",
+        "category_id": 0,
+        "primo": 5
+    },
+    "483": {
+        "id": 483,
+        "name": "A Cat's Gift",
+        "category_id": 0,
+        "primo": 5
+    },
+    "484": {
+        "id": 484,
+        "name": "It Has to Be Treasure",
+        "category_id": 0,
+        "primo": 5
+    },
+    "485": {
+        "id": 485,
+        "name": "On the Other Side of Homesickness",
+        "category_id": 0,
+        "primo": 5
+    },
+    "486": {
+        "id": 486,
+        "name": "This and That...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "487": {
+        "id": 487,
+        "name": "Davy Jones' Locker",
+        "category_id": 0,
+        "primo": 5
+    },
+    "488": {
+        "id": 488,
+        "name": "Sea of Puzzles",
+        "category_id": 0,
+        "primo": 5
+    },
+    "489": {
+        "id": 489,
+        "name": "Great Amakumo Peak",
+        "category_id": 0,
+        "primo": 5
+    },
+    "490": {
+        "id": 490,
+        "name": "Dry Clean",
+        "category_id": 0,
+        "primo": 5
+    },
+    "491": {
+        "id": 491,
+        "name": "Bio-Oceanic Weapon",
+        "category_id": 0,
+        "primo": 5
+    },
+    "492": {
+        "id": 492,
+        "name": "Love and Non-Communication",
+        "category_id": 0,
+        "primo": 5
+    },
+    "493": {
+        "id": 493,
+        "name": "Thunder Fall",
+        "category_id": 0,
+        "primo": 5
+    },
+    "494": {
+        "id": 494,
+        "name": "Icy Rivers, Crimson Witch",
+        "category_id": 0,
+        "primo": 10
+    },
+    "495": {
+        "id": 495,
+        "name": "SWORDFISH II",
+        "category_id": 0,
+        "primo": 5
+    },
+    "496": {
+        "id": 496,
+        "name": "Though Their Wishes Be Like Morning Dew...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "497": {
+        "id": 497,
+        "name": "Fantabulous Firework Fiesta",
+        "category_id": 0,
+        "primo": 5
+    },
+    "498": {
+        "id": 498,
+        "name": "Duel Before the Throne",
+        "category_id": 0,
+        "primo": 5
+    },
+    "499": {
+        "id": 499,
+        "name": "Their Wishes",
+        "category_id": 0,
+        "primo": 5
+    },
+    "500": {
+        "id": 500,
+        "name": "Omnipresence Over Mortals",
+        "category_id": 0,
+        "primo": 10
+    },
+    "501": {
+        "id": 501,
+        "name": "Well, At Least It Ended",
+        "category_id": 0,
+        "primo": 5
+    },
+    "502": {
+        "id": 502,
+        "name": "Her and Her Cat",
+        "category_id": 0,
+        "primo": 5
+    },
+    "503": {
+        "id": 503,
+        "name": "Continental Explorer: Tsurumi Island",
+        "category_id": 27,
+        "primo": 5
+    },
+    "504": {
+        "id": 504,
+        "name": "Fog's Edge",
+        "category_id": 27,
+        "primo": 5
+    },
+    "505": {
+        "id": 505,
+        "name": "Sanctuary Pilgrim: Tsurumi Island",
+        "category_id": 27,
+        "primo": 10
+    },
+    "506": {
+        "id": 506,
+        "name": "Flashes in the Night",
+        "category_id": 27,
+        "primo": 5
+    },
+    "507": {
+        "id": 507,
+        "name": "Foggy Guidance",
+        "category_id": 27,
+        "primo": 5
+    },
+    "508": {
+        "id": 508,
+        "name": "Lost Treasure Hunter",
+        "category_id": 27,
+        "primo": 5
+    },
+    "509": {
+        "id": 509,
+        "name": "Lost Treasure Hunter",
+        "category_id": 27,
+        "primo": 10
+    },
+    "510": {
+        "id": 510,
+        "name": "Lost Treasure Hunter",
+        "category_id": 27,
+        "primo": 20
+    },
+    "511": {
+        "id": 511,
+        "name": "Lost Adventurer",
+        "category_id": 27,
+        "primo": 5
+    },
+    "512": {
+        "id": 512,
+        "name": "Lost Adventurer",
+        "category_id": 27,
+        "primo": 10
+    },
+    "513": {
+        "id": 513,
+        "name": "Lost Adventurer",
+        "category_id": 27,
+        "primo": 20
+    },
+    "514": {
+        "id": 514,
+        "name": "Thunder Is Forever",
+        "category_id": 27,
+        "primo": 10
+    },
+    "515": {
+        "id": 515,
+        "name": "Traverse the Fog Door",
+        "category_id": 0,
+        "primo": 5
+    },
+    "516": {
+        "id": 516,
+        "name": "Nihil Sub Caligine Novum",
+        "category_id": 0,
+        "primo": 5
+    },
+    "517": {
+        "id": 517,
+        "name": "White's Illusion",
+        "category_id": 0,
+        "primo": 5
+    },
+    "518": {
+        "id": 518,
+        "name": "\"Lovely Sights, Further Than the Eye Can See\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "519": {
+        "id": 519,
+        "name": "A Tale of Two Cities",
+        "category_id": 0,
+        "primo": 5
+    },
+    "520": {
+        "id": 520,
+        "name": "\"My Life as an Adventurer\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "521": {
+        "id": 521,
+        "name": "Light Up the Fog",
+        "category_id": 0,
+        "primo": 5
+    },
+    "522": {
+        "id": 522,
+        "name": "\"P—Paimon ate it...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "523": {
+        "id": 523,
+        "name": "Guessing Game",
+        "category_id": 0,
+        "primo": 5
+    },
+    "524": {
+        "id": 524,
+        "name": "Thunderbird's Lineage",
+        "category_id": 0,
+        "primo": 5
+    },
+    "525": {
+        "id": 525,
+        "name": "Seven Letters",
+        "category_id": 0,
+        "primo": 5
+    },
+    "526": {
+        "id": 526,
+        "name": "Moshiri Kara",
+        "category_id": 0,
+        "primo": 5
+    },
+    "527": {
+        "id": 527,
+        "name": "Across the Misty River",
+        "category_id": 0,
+        "primo": 5
+    },
+    "528": {
+        "id": 528,
+        "name": "Everyone's Happy",
+        "category_id": 17,
+        "primo": 20
+    },
+    "529": {
+        "id": 529,
+        "name": "Housekeeper Extraordinaire",
+        "category_id": 17,
+        "primo": 5
+    },
+    "530": {
+        "id": 530,
+        "name": "From the Sea Never Returning",
+        "category_id": 17,
+        "primo": 5
+    },
+    "531": {
+        "id": 531,
+        "name": "Taller by Half",
+        "category_id": 17,
+        "primo": 20
+    },
+    "532": {
+        "id": 532,
+        "name": "Mujina-Class Ninja",
+        "category_id": 17,
+        "primo": 5
+    },
+    "533": {
+        "id": 533,
+        "name": "Dish Effect: Mobility Decreased",
+        "category_id": 17,
+        "primo": 5
+    },
+    "534": {
+        "id": 534,
+        "name": "Zoo Tycoon",
+        "category_id": 0,
+        "primo": 5
+    },
+    "535": {
+        "id": 535,
+        "name": "Zoo Tycoon",
+        "category_id": 0,
+        "primo": 10
+    },
+    "536": {
+        "id": 536,
+        "name": "Zoo Tycoon",
+        "category_id": 0,
+        "primo": 20
+    },
+    "537": {
+        "id": 537,
+        "name": "\"Not Flyin' Away This Time!\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "538": {
+        "id": 538,
+        "name": "The Net Closes In",
+        "category_id": 0,
+        "primo": 5
+    },
+    "539": {
+        "id": 539,
+        "name": "Honorary Crux Member",
+        "category_id": 17,
+        "primo": 20
+    },
+    "540": {
+        "id": 540,
+        "name": "Wine Unburdens",
+        "category_id": 17,
+        "primo": 5
+    },
+    "541": {
+        "id": 541,
+        "name": "Guyun Buyers' Club",
+        "category_id": 17,
+        "primo": 5
+    },
+    "542": {
+        "id": 542,
+        "name": "General of Watatsumi",
+        "category_id": 17,
+        "primo": 20
+    },
+    "543": {
+        "id": 543,
+        "name": "Changing Times",
+        "category_id": 17,
+        "primo": 5
+    },
+    "544": {
+        "id": 544,
+        "name": "To Tell or Not to Tell, That Is the Question",
+        "category_id": 17,
+        "primo": 5
+    },
+    "545": {
+        "id": 545,
+        "name": "\"...You Do Not Know the Night...\"",
+        "category_id": 28,
+        "primo": 5
+    },
+    "546": {
+        "id": 546,
+        "name": "The Highest Authority in the Land",
+        "category_id": 28,
+        "primo": 5
+    },
+    "547": {
+        "id": 547,
+        "name": "Phosphoros' Guidance",
+        "category_id": 28,
+        "primo": 5
+    },
+    "548": {
+        "id": 548,
+        "name": "Phosphoros' Guidance",
+        "category_id": 28,
+        "primo": 10
+    },
+    "549": {
+        "id": 549,
+        "name": "Phosphoros' Guidance",
+        "category_id": 28,
+        "primo": 20
+    },
+    "550": {
+        "id": 550,
+        "name": "Hesperus' Boons",
+        "category_id": 28,
+        "primo": 5
+    },
+    "551": {
+        "id": 551,
+        "name": "Hesperus' Boons",
+        "category_id": 28,
+        "primo": 10
+    },
+    "552": {
+        "id": 552,
+        "name": "Hesperus' Boons",
+        "category_id": 28,
+        "primo": 20
+    },
+    "553": {
+        "id": 553,
+        "name": "Kairos' Constancy",
+        "category_id": 28,
+        "primo": 5
+    },
+    "554": {
+        "id": 554,
+        "name": "Kairos' Constancy",
+        "category_id": 28,
+        "primo": 10
+    },
+    "555": {
+        "id": 555,
+        "name": "Kairos' Constancy",
+        "category_id": 28,
+        "primo": 20
+    },
+    "556": {
+        "id": 556,
+        "name": "Fire Rat's Robe, Dragon-Head Pearl, Sacred Offering Bowl, and...",
+        "category_id": 28,
+        "primo": 10
+    },
+    "557": {
+        "id": 557,
+        "name": "N-Thousand Leagues Under the Sea",
+        "category_id": 0,
+        "primo": 5
+    },
+    "558": {
+        "id": 558,
+        "name": "Flowing Sunfire, Also Known as Marishi",
+        "category_id": 0,
+        "primo": 5
+    },
+    "559": {
+        "id": 559,
+        "name": "Of Sun and Moon",
+        "category_id": 0,
+        "primo": 5
+    },
+    "560": {
+        "id": 560,
+        "name": "\"Extensive And Meticulous\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "561": {
+        "id": 561,
+        "name": "\"The Eel in Winter Sought\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "562": {
+        "id": 562,
+        "name": "\"Unmatched Throughout Tokoyo\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "563": {
+        "id": 563,
+        "name": "\"Maybe Get Yourself a More Social Hobby...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "564": {
+        "id": 564,
+        "name": "\"If Tokoyo Ookami Knew of This...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "565": {
+        "id": 565,
+        "name": "\"What Difference Does This Make?\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "566": {
+        "id": 566,
+        "name": "The Children of God Shall Dance",
+        "category_id": 0,
+        "primo": 5
+    },
+    "567": {
+        "id": 567,
+        "name": "Light and Dark, Dusk and Dawn",
+        "category_id": 0,
+        "primo": 5
+    },
+    "568": {
+        "id": 568,
+        "name": "Step Right Up!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "569": {
+        "id": 569,
+        "name": "The Ill-Starred Legacy of Iwakura",
+        "category_id": 0,
+        "primo": 5
+    },
+    "570": {
+        "id": 570,
+        "name": "One Key for Each Lock",
+        "category_id": 0,
+        "primo": 10
+    },
+    "571": {
+        "id": 571,
+        "name": "\"All Is Well\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "572": {
+        "id": 572,
+        "name": "Rise of the Jade Chamber",
+        "category_id": 0,
+        "primo": 5
+    },
+    "573": {
+        "id": 573,
+        "name": "Majesty of the Deep",
+        "category_id": 0,
+        "primo": 5
+    },
+    "574": {
+        "id": 574,
+        "name": "A Former Dream",
+        "category_id": 0,
+        "primo": 5
+    },
+    "575": {
+        "id": 575,
+        "name": "The Crane Returns on the Wind",
+        "category_id": 0,
+        "primo": 10
+    },
+    "576": {
+        "id": 576,
+        "name": "Anna's Adventures",
+        "category_id": 0,
+        "primo": 5
+    },
+    "577": {
+        "id": 577,
+        "name": "Prelude to the Journey",
+        "category_id": 0,
+        "primo": 5
+    },
+    "578": {
+        "id": 578,
+        "name": "Megrez's Companion Star",
+        "category_id": 17,
+        "primo": 20
+    },
+    "579": {
+        "id": 579,
+        "name": "You've Got to Have Reserves",
+        "category_id": 17,
+        "primo": 5
+    },
+    "580": {
+        "id": 580,
+        "name": "Overprotectiveness",
+        "category_id": 17,
+        "primo": 5
+    },
+    "581": {
+        "id": 581,
+        "name": "The Lingering Song",
+        "category_id": 17,
+        "primo": 20
+    },
+    "582": {
+        "id": 582,
+        "name": "May This Moment Be Made to Last",
+        "category_id": 17,
+        "primo": 5
+    },
+    "583": {
+        "id": 583,
+        "name": "A Strict Master Trains a Talented Pupil",
+        "category_id": 17,
+        "primo": 5
+    },
+    "584": {
+        "id": 584,
+        "name": "Inugami's End",
+        "category_id": 0,
+        "primo": 5
+    },
+    "585": {
+        "id": 585,
+        "name": "Hard Landing",
+        "category_id": 0,
+        "primo": 5
+    },
+    "586": {
+        "id": 586,
+        "name": "Impeccable Judgment",
+        "category_id": 0,
+        "primo": 5
+    },
+    "587": {
+        "id": 587,
+        "name": "Beware of Angry Dog",
+        "category_id": 0,
+        "primo": 5
+    },
+    "588": {
+        "id": 588,
+        "name": "Basically Harmless",
+        "category_id": 0,
+        "primo": 5
+    },
+    "589": {
+        "id": 589,
+        "name": "It's Yesterday Once More",
+        "category_id": 0,
+        "primo": 5
+    },
+    "590": {
+        "id": 590,
+        "name": "It's Yesterday Once More",
+        "category_id": 0,
+        "primo": 10
+    },
+    "591": {
+        "id": 591,
+        "name": "It's Yesterday Once More",
+        "category_id": 0,
+        "primo": 20
+    },
+    "592": {
+        "id": 592,
+        "name": "Chasm Conqueror",
+        "category_id": 30,
+        "primo": 5
+    },
+    "593": {
+        "id": 593,
+        "name": "Perilous Plunge",
+        "category_id": 30,
+        "primo": 5
+    },
+    "594": {
+        "id": 594,
+        "name": "Into the Depths",
+        "category_id": 30,
+        "primo": 5
+    },
+    "595": {
+        "id": 595,
+        "name": "Gorge Guide",
+        "category_id": 30,
+        "primo": 5
+    },
+    "596": {
+        "id": 596,
+        "name": "Gorge Guide",
+        "category_id": 30,
+        "primo": 10
+    },
+    "597": {
+        "id": 597,
+        "name": "Gorge Guide",
+        "category_id": 30,
+        "primo": 20
+    },
+    "598": {
+        "id": 598,
+        "name": "Chasm Treasure Hunter",
+        "category_id": 30,
+        "primo": 5
+    },
+    "599": {
+        "id": 599,
+        "name": "Chasm Treasure Hunter",
+        "category_id": 30,
+        "primo": 10
+    },
+    "600": {
+        "id": 600,
+        "name": "Chasm Treasure Hunter",
+        "category_id": 30,
+        "primo": 20
+    },
+    "601": {
+        "id": 601,
+        "name": "Chasm Adventurer",
+        "category_id": 30,
+        "primo": 5
+    },
+    "602": {
+        "id": 602,
+        "name": "Chasm Adventurer",
+        "category_id": 30,
+        "primo": 10
+    },
+    "603": {
+        "id": 603,
+        "name": "Chasm Adventurer",
+        "category_id": 30,
+        "primo": 20
+    },
+    "604": {
+        "id": 604,
+        "name": "Arch-Illuminator",
+        "category_id": 30,
+        "primo": 20
+    },
+    "605": {
+        "id": 605,
+        "name": "\"When the Seal Is Broken...\"",
+        "category_id": 30,
+        "primo": 10
+    },
+    "606": {
+        "id": 606,
+        "name": "Exploration Underway",
+        "category_id": 30,
+        "primo": 10
+    },
+    "607": {
+        "id": 607,
+        "name": "The Lost Valley",
+        "category_id": 0,
+        "primo": 5
+    },
+    "608": {
+        "id": 608,
+        "name": "The Chasm Mining Records",
+        "category_id": 0,
+        "primo": 5
+    },
+    "609": {
+        "id": 609,
+        "name": "People of the Valley of Life",
+        "category_id": 0,
+        "primo": 5
+    },
+    "610": {
+        "id": 610,
+        "name": "CREDE TENEBRIS",
+        "category_id": 0,
+        "primo": 5
+    },
+    "611": {
+        "id": 611,
+        "name": "The Nine-Word Rumor",
+        "category_id": 0,
+        "primo": 5
+    },
+    "612": {
+        "id": 612,
+        "name": "Den of Thieves",
+        "category_id": 0,
+        "primo": 5
+    },
+    "613": {
+        "id": 613,
+        "name": "Ding Ding Ding, We Have a Winner! Again!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "614": {
+        "id": 614,
+        "name": "Of the Human Heart Many Essays Written",
+        "category_id": 0,
+        "primo": 5
+    },
+    "615": {
+        "id": 615,
+        "name": "If Not Us, Then Who?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "616": {
+        "id": 616,
+        "name": "Maintain Safety Distance",
+        "category_id": 0,
+        "primo": 5
+    },
+    "617": {
+        "id": 617,
+        "name": "Birth Pains of the Dark Fog",
+        "category_id": 0,
+        "primo": 5
+    },
+    "618": {
+        "id": 618,
+        "name": "The Alchemistake",
+        "category_id": 0,
+        "primo": 5
+    },
+    "619": {
+        "id": 619,
+        "name": "Valor's Afterglow",
+        "category_id": 0,
+        "primo": 5
+    },
+    "620": {
+        "id": 620,
+        "name": "Not for Long-Term Consumption",
+        "category_id": 0,
+        "primo": 5
+    },
+    "621": {
+        "id": 621,
+        "name": "The Mushroom That Asks Too Much",
+        "category_id": 0,
+        "primo": 5
+    },
+    "622": {
+        "id": 622,
+        "name": "The Millelith Shall Never Be Moved",
+        "category_id": 0,
+        "primo": 5
+    },
+    "623": {
+        "id": 623,
+        "name": "Jack of No Trades",
+        "category_id": 0,
+        "primo": 5
+    },
+    "624": {
+        "id": 624,
+        "name": "Well Done, Stierlitz!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "625": {
+        "id": 625,
+        "name": "Yet the Darkness Did Not Overcome It...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "626": {
+        "id": 626,
+        "name": "\"...Smells Like Asphalt.\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "627": {
+        "id": 627,
+        "name": "Light Up the Dark",
+        "category_id": 0,
+        "primo": 5
+    },
+    "628": {
+        "id": 628,
+        "name": "\"All We Need Is Some Firewood and Some Vinegar...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "629": {
+        "id": 629,
+        "name": "The Tome of Taliesin",
+        "category_id": 0,
+        "primo": 5
+    },
+    "630": {
+        "id": 630,
+        "name": "Salt for My Foes, and Water for Me",
+        "category_id": 29,
+        "primo": 5
+    },
+    "631": {
+        "id": 631,
+        "name": "The Fraught Return",
+        "category_id": 29,
+        "primo": 5
+    },
+    "632": {
+        "id": 632,
+        "name": "Moment of Destruction",
+        "category_id": 29,
+        "primo": 10
+    },
+    "633": {
+        "id": 633,
+        "name": "Electric Escape",
+        "category_id": 29,
+        "primo": 5
+    },
+    "634": {
+        "id": 634,
+        "name": "Radio Silence",
+        "category_id": 29,
+        "primo": 5
+    },
+    "635": {
+        "id": 635,
+        "name": "Swimming Prohibited",
+        "category_id": 29,
+        "primo": 5
+    },
+    "636": {
+        "id": 636,
+        "name": "Death Proof",
+        "category_id": 29,
+        "primo": 10
+    },
+    "637": {
+        "id": 637,
+        "name": "Overflowing Light",
+        "category_id": 0,
+        "primo": 5
+    },
+    "638": {
+        "id": 638,
+        "name": "Ouroboros",
+        "category_id": 29,
+        "primo": 5
+    },
+    "639": {
+        "id": 639,
+        "name": "When One Gazes Into the Abyss...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "640": {
+        "id": 640,
+        "name": "The Beautiful and Damned",
+        "category_id": 0,
+        "primo": 5
+    },
+    "641": {
+        "id": 641,
+        "name": "The Will to Live and the Depths of Lamentation",
+        "category_id": 0,
+        "primo": 5
+    },
+    "642": {
+        "id": 642,
+        "name": "May Glory Go With You",
+        "category_id": 0,
+        "primo": 10
+    },
+    "643": {
+        "id": 643,
+        "name": "No Way Home",
+        "category_id": 0,
+        "primo": 5
+    },
+    "644": {
+        "id": 644,
+        "name": "Layers of Fear",
+        "category_id": 0,
+        "primo": 5
+    },
+    "645": {
+        "id": 645,
+        "name": "Of Heart and Soul",
+        "category_id": 0,
+        "primo": 10
+    },
+    "646": {
+        "id": 646,
+        "name": "Arataki Gang Chief Advisor",
+        "category_id": 17,
+        "primo": 20
+    },
+    "647": {
+        "id": 647,
+        "name": "One More Look!",
+        "category_id": 17,
+        "primo": 5
+    },
+    "648": {
+        "id": 648,
+        "name": "\"Upstairs...\"",
+        "category_id": 17,
+        "primo": 5
+    },
+    "649": {
+        "id": 649,
+        "name": "You Thought We Were For Real, Eh?",
+        "category_id": 17,
+        "primo": 20
+    },
+    "650": {
+        "id": 650,
+        "name": "An Ideal Detective Am I",
+        "category_id": 17,
+        "primo": 5
+    },
+    "651": {
+        "id": 651,
+        "name": "Sangonomiya Supplications",
+        "category_id": 17,
+        "primo": 5
+    },
+    "652": {
+        "id": 652,
+        "name": "Continental Explorer: Sumeru Boscage",
+        "category_id": 31,
+        "primo": 5
+    },
+    "653": {
+        "id": 653,
+        "name": "Forest Roamer",
+        "category_id": 31,
+        "primo": 5
+    },
+    "654": {
+        "id": 654,
+        "name": "Sanctuary Pilgrim: Sumeru Boscage",
+        "category_id": 31,
+        "primo": 10
+    },
+    "655": {
+        "id": 655,
+        "name": "Fluorescent Bloom",
+        "category_id": 31,
+        "primo": 20
+    },
+    "656": {
+        "id": 656,
+        "name": "Culmination of the Great Dream",
+        "category_id": 31,
+        "primo": 20
+    },
+    "657": {
+        "id": 657,
+        "name": "Woodland Guide",
+        "category_id": 31,
+        "primo": 5
+    },
+    "658": {
+        "id": 658,
+        "name": "Woodland Guide",
+        "category_id": 31,
+        "primo": 10
+    },
+    "659": {
+        "id": 659,
+        "name": "Woodland Guide",
+        "category_id": 31,
+        "primo": 20
+    },
+    "660": {
+        "id": 660,
+        "name": "Treasure Hunter of the Shimmering Woods",
+        "category_id": 31,
+        "primo": 5
+    },
+    "661": {
+        "id": 661,
+        "name": "Treasure Hunter of the Shimmering Woods",
+        "category_id": 31,
+        "primo": 10
+    },
+    "662": {
+        "id": 662,
+        "name": "Treasure Hunter of the Shimmering Woods",
+        "category_id": 31,
+        "primo": 20
+    },
+    "663": {
+        "id": 663,
+        "name": "Adventurer of the Shimmering Woods",
+        "category_id": 31,
+        "primo": 5
+    },
+    "664": {
+        "id": 664,
+        "name": "Adventurer of the Shimmering Woods",
+        "category_id": 31,
+        "primo": 10
+    },
+    "665": {
+        "id": 665,
+        "name": "Adventurer of the Shimmering Woods",
+        "category_id": 31,
+        "primo": 20
+    },
+    "666": {
+        "id": 666,
+        "name": "The Forest Will Remember",
+        "category_id": 31,
+        "primo": 10
+    },
+    "667": {
+        "id": 667,
+        "name": "The Essence of Flora",
+        "category_id": 32,
+        "primo": 5
+    },
+    "668": {
+        "id": 668,
+        "name": "Reminiscence of Gurabad",
+        "category_id": 32,
+        "primo": 5
+    },
+    "669": {
+        "id": 669,
+        "name": "Bright as a Flame",
+        "category_id": 32,
+        "primo": 5
+    },
+    "670": {
+        "id": 670,
+        "name": "Farris' Journey",
+        "category_id": 32,
+        "primo": 5
+    },
+    "671": {
+        "id": 671,
+        "name": "Nature's Infinite Wit",
+        "category_id": 0,
+        "primo": 20
+    },
+    "672": {
+        "id": 672,
+        "name": "For Meritorious Service",
+        "category_id": 0,
+        "primo": 5
+    },
+    "673": {
+        "id": 673,
+        "name": "Portal of Marvels",
+        "category_id": 0,
+        "primo": 5
+    },
+    "674": {
+        "id": 674,
+        "name": "Perched Between Dream and Reality",
+        "category_id": 0,
+        "primo": 5
+    },
+    "675": {
+        "id": 675,
+        "name": "Music of the Forest",
+        "category_id": 0,
+        "primo": 5
+    },
+    "676": {
+        "id": 676,
+        "name": "A Leisurely Journey",
+        "category_id": 0,
+        "primo": 5
+    },
+    "677": {
+        "id": 677,
+        "name": "Glittering Melody",
+        "category_id": 0,
+        "primo": 5
+    },
+    "678": {
+        "id": 678,
+        "name": "The Tale of the Forest",
+        "category_id": 0,
+        "primo": 5
+    },
+    "679": {
+        "id": 679,
+        "name": "A Once-Emerald Nursery",
+        "category_id": 0,
+        "primo": 5
+    },
+    "680": {
+        "id": 680,
+        "name": "The End of Annihilation",
+        "category_id": 0,
+        "primo": 5
+    },
+    "681": {
+        "id": 681,
+        "name": "Though to the Earth I May Return...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "682": {
+        "id": 682,
+        "name": "Ever an Outcast in the Forest",
+        "category_id": 0,
+        "primo": 5
+    },
+    "683": {
+        "id": 683,
+        "name": "Master Chef: Vanarana",
+        "category_id": 0,
+        "primo": 5
+    },
+    "684": {
+        "id": 684,
+        "name": "Open Sesame!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "685": {
+        "id": 685,
+        "name": "A Conversation with the Treasure Chest Owner",
+        "category_id": 0,
+        "primo": 5
+    },
+    "686": {
+        "id": 686,
+        "name": "Vamadha-Go-Round",
+        "category_id": 0,
+        "primo": 5
+    },
+    "687": {
+        "id": 687,
+        "name": "In the Name of Anfortas",
+        "category_id": 0,
+        "primo": 5
+    },
+    "688": {
+        "id": 688,
+        "name": "Call of the Nameless City",
+        "category_id": 0,
+        "primo": 5
+    },
+    "689": {
+        "id": 689,
+        "name": "Walking with Water and Wind",
+        "category_id": 0,
+        "primo": 5
+    },
+    "690": {
+        "id": 690,
+        "name": "...Let Me Fade With Memory",
+        "category_id": 0,
+        "primo": 10
+    },
+    "691": {
+        "id": 691,
+        "name": "Now Let Time Resume",
+        "category_id": 0,
+        "primo": 5
+    },
+    "692": {
+        "id": 692,
+        "name": "Please Play Safely",
+        "category_id": 0,
+        "primo": 5
+    },
+    "693": {
+        "id": 693,
+        "name": "Eternal Sustenance",
+        "category_id": 0,
+        "primo": 5
+    },
+    "694": {
+        "id": 694,
+        "name": "When the Dreams Bloom",
+        "category_id": 0,
+        "primo": 5
+    },
+    "695": {
+        "id": 695,
+        "name": "A Walnut Tree Amidst the Gardens",
+        "category_id": 0,
+        "primo": 5
+    },
+    "696": {
+        "id": 696,
+        "name": "Sumeru Monster Ecology Survey",
+        "category_id": 0,
+        "primo": 5
+    },
+    "697": {
+        "id": 697,
+        "name": "As the Lion Searched for Courage...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "698": {
+        "id": 698,
+        "name": "Summit of Wisdom",
+        "category_id": 0,
+        "primo": 5
+    },
+    "699": {
+        "id": 699,
+        "name": "Explorer",
+        "category_id": 0,
+        "primo": 5
+    },
+    "700": {
+        "id": 700,
+        "name": "The Jasmines Whisper, the Pomegranates Are Glad",
+        "category_id": 0,
+        "primo": 10
+    },
+    "701": {
+        "id": 701,
+        "name": "Swift as the Wind",
+        "category_id": 0,
+        "primo": 5
+    },
+    "702": {
+        "id": 702,
+        "name": "The Rule of Three",
+        "category_id": 0,
+        "primo": 5
+    },
+    "703": {
+        "id": 703,
+        "name": "The Bitter Fruit of Dreams",
+        "category_id": 0,
+        "primo": 5
+    },
+    "704": {
+        "id": 704,
+        "name": "The Rain Seeps Into the Soil",
+        "category_id": 0,
+        "primo": 10
+    },
+    "705": {
+        "id": 705,
+        "name": "They Enter the Flow",
+        "category_id": 0,
+        "primo": 5
+    },
+    "706": {
+        "id": 706,
+        "name": "Weather Control Activated",
+        "category_id": 0,
+        "primo": 5
+    },
+    "707": {
+        "id": 707,
+        "name": "Oh, Frabjous Day!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "708": {
+        "id": 708,
+        "name": "Kara's Child",
+        "category_id": 0,
+        "primo": 5
+    },
+    "709": {
+        "id": 709,
+        "name": "The Lengthy Reunion",
+        "category_id": 0,
+        "primo": 5
+    },
+    "710": {
+        "id": 710,
+        "name": "\"I've Got It! I've Got It!\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "711": {
+        "id": 711,
+        "name": "Song of Night and Dawn",
+        "category_id": 0,
+        "primo": 5
+    },
+    "712": {
+        "id": 712,
+        "name": "\"Han Always Shoots First...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "713": {
+        "id": 713,
+        "name": "Opportunistic Gain",
+        "category_id": 0,
+        "primo": 5
+    },
+    "714": {
+        "id": 714,
+        "name": "\"Get Over Here!\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "715": {
+        "id": 715,
+        "name": "When Autumn and Dew Meet",
+        "category_id": 0,
+        "primo": 5
+    },
+    "716": {
+        "id": 716,
+        "name": "Three Strikes",
+        "category_id": 0,
+        "primo": 5
+    },
+    "717": {
+        "id": 717,
+        "name": "Voice of Akasha",
+        "category_id": 0,
+        "primo": 5
+    },
+    "718": {
+        "id": 718,
+        "name": "The Merchant and the Gate of Knowledge",
+        "category_id": 0,
+        "primo": 5
+    },
+    "719": {
+        "id": 719,
+        "name": "The House of Canned Time",
+        "category_id": 0,
+        "primo": 5
+    },
+    "720": {
+        "id": 720,
+        "name": "Through Mists of Smoke and Forests Dark",
+        "category_id": 0,
+        "primo": 10
+    },
+    "721": {
+        "id": 721,
+        "name": "The Flavor of Déjà Vu",
+        "category_id": 0,
+        "primo": 5
+    },
+    "722": {
+        "id": 722,
+        "name": "Even Paimon Wouldn't Eat That!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "723": {
+        "id": 723,
+        "name": "All Dreams Must End With an Awakening",
+        "category_id": 0,
+        "primo": 5
+    },
+    "724": {
+        "id": 724,
+        "name": "The Morn a Thousand Roses Brings",
+        "category_id": 0,
+        "primo": 10
+    },
+    "725": {
+        "id": 725,
+        "name": "Aha! What's on the Hook?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "726": {
+        "id": 726,
+        "name": "Kalimi's Fungus",
+        "category_id": 0,
+        "primo": 5
+    },
+    "727": {
+        "id": 727,
+        "name": "When Wealth Comes A-Knockin'",
+        "category_id": 0,
+        "primo": 5
+    },
+    "728": {
+        "id": 728,
+        "name": "Catch Me-ow if You Can!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "729": {
+        "id": 729,
+        "name": "Principia Arithmetica",
+        "category_id": 0,
+        "primo": 5
+    },
+    "730": {
+        "id": 730,
+        "name": "\"It's My Job.\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "731": {
+        "id": 731,
+        "name": "Relaxation Therapy",
+        "category_id": 0,
+        "primo": 5
+    },
+    "732": {
+        "id": 732,
+        "name": "Up by the Roots",
+        "category_id": 0,
+        "primo": 5
+    },
+    "733": {
+        "id": 733,
+        "name": "Date of Departure",
+        "category_id": 0,
+        "primo": 5
+    },
+    "734": {
+        "id": 734,
+        "name": "Don't Blame the Mora!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "735": {
+        "id": 735,
+        "name": "The Sky is Vast; The Earth...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "736": {
+        "id": 736,
+        "name": "Answer Time",
+        "category_id": 0,
+        "primo": 5
+    },
+    "737": {
+        "id": 737,
+        "name": "The Random Circumstances of a Rose's Blooming",
+        "category_id": 0,
+        "primo": 5
+    },
+    "738": {
+        "id": 738,
+        "name": "Where Have You Gone, My Dream?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "739": {
+        "id": 739,
+        "name": "Non-Obligatory Request",
+        "category_id": 0,
+        "primo": 5
+    },
+    "740": {
+        "id": 740,
+        "name": "The Ship Has It",
+        "category_id": 0,
+        "primo": 5
+    },
+    "741": {
+        "id": 741,
+        "name": "What's the Matter?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "742": {
+        "id": 742,
+        "name": "Scholarly in Sumeru",
+        "category_id": 0,
+        "primo": 5
+    },
+    "743": {
+        "id": 743,
+        "name": "Our Hearts as One",
+        "category_id": 33,
+        "primo": 10
+    },
+    "744": {
+        "id": 744,
+        "name": "Water, Basically",
+        "category_id": 33,
+        "primo": 10
+    },
+    "745": {
+        "id": 745,
+        "name": "Dashing Through the Snow... and the Flames",
+        "category_id": 33,
+        "primo": 10
+    },
+    "746": {
+        "id": 746,
+        "name": "The Whisperer in Darkness",
+        "category_id": 33,
+        "primo": 10
+    },
+    "747": {
+        "id": 747,
+        "name": "Brave the Lightning's Glow...",
+        "category_id": 33,
+        "primo": 10
+    },
+    "748": {
+        "id": 748,
+        "name": "Surpassing the Ancients' Wisdom",
+        "category_id": 33,
+        "primo": 10
+    },
+    "749": {
+        "id": 749,
+        "name": "I'm a Flexitarian",
+        "category_id": 33,
+        "primo": 10
+    },
+    "750": {
+        "id": 750,
+        "name": "Electric Shock Hazard",
+        "category_id": 33,
+        "primo": 10
+    },
+    "751": {
+        "id": 751,
+        "name": "Continental Explorer: Dune Dreams (I)",
+        "category_id": 35,
+        "primo": 5
+    },
+    "752": {
+        "id": 752,
+        "name": "Over Sandstorms and Mirages (I)",
+        "category_id": 35,
+        "primo": 5
+    },
+    "753": {
+        "id": 753,
+        "name": "Sanctuary Pilgrim: Dune Dreams (I)",
+        "category_id": 35,
+        "primo": 10
+    },
+    "754": {
+        "id": 754,
+        "name": "The Desert Will Guide You Home (I)",
+        "category_id": 35,
+        "primo": 5
+    },
+    "755": {
+        "id": 755,
+        "name": "The Desert Will Guide You Home (I)",
+        "category_id": 35,
+        "primo": 10
+    },
+    "756": {
+        "id": 756,
+        "name": "The Desert Will Guide You Home (I)",
+        "category_id": 35,
+        "primo": 20
+    },
+    "757": {
+        "id": 757,
+        "name": "Quicksand Treasure Hunter (I)",
+        "category_id": 35,
+        "primo": 5
+    },
+    "758": {
+        "id": 758,
+        "name": "Quicksand Treasure Hunter (I)",
+        "category_id": 35,
+        "primo": 10
+    },
+    "759": {
+        "id": 759,
+        "name": "Quicksand Treasure Hunter (I)",
+        "category_id": 35,
+        "primo": 20
+    },
+    "760": {
+        "id": 760,
+        "name": "Quicksand Adventurer (I)",
+        "category_id": 35,
+        "primo": 5
+    },
+    "761": {
+        "id": 761,
+        "name": "Quicksand Adventurer (I)",
+        "category_id": 35,
+        "primo": 10
+    },
+    "762": {
+        "id": 762,
+        "name": "Quicksand Adventurer (I)",
+        "category_id": 35,
+        "primo": 20
+    },
+    "763": {
+        "id": 763,
+        "name": "Slumber, the Brother Of...",
+        "category_id": 35,
+        "primo": 10
+    },
+    "764": {
+        "id": 764,
+        "name": "Close Encounters of the Which Kind?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "765": {
+        "id": 765,
+        "name": "Exploration in the Desert",
+        "category_id": 0,
+        "primo": 5
+    },
+    "766": {
+        "id": 766,
+        "name": "Thinking Like a Vahumana Scholar",
+        "category_id": 0,
+        "primo": 5
+    },
+    "767": {
+        "id": 767,
+        "name": "Fata Morgana",
+        "category_id": 0,
+        "primo": 5
+    },
+    "768": {
+        "id": 768,
+        "name": "Create, Swap, Store, and Use",
+        "category_id": 0,
+        "primo": 5
+    },
+    "769": {
+        "id": 769,
+        "name": "The Amazing Pyramid",
+        "category_id": 0,
+        "primo": 5
+    },
+    "770": {
+        "id": 770,
+        "name": "Walk Like King Deshret's People",
+        "category_id": 0,
+        "primo": 5
+    },
+    "771": {
+        "id": 771,
+        "name": "The Straight Path",
+        "category_id": 0,
+        "primo": 5
+    },
+    "772": {
+        "id": 772,
+        "name": "The Path to Enlightenment",
+        "category_id": 0,
+        "primo": 5
+    },
+    "773": {
+        "id": 773,
+        "name": "Encore!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "774": {
+        "id": 774,
+        "name": "Reclining on Top of the World",
+        "category_id": 0,
+        "primo": 10
+    },
+    "775": {
+        "id": 775,
+        "name": "What Does This Button Do?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "776": {
+        "id": 776,
+        "name": "The Breakthrough",
+        "category_id": 0,
+        "primo": 5
+    },
+    "777": {
+        "id": 777,
+        "name": "What's the Password?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "778": {
+        "id": 778,
+        "name": "The End of the Corridor",
+        "category_id": 0,
+        "primo": 5
+    },
+    "779": {
+        "id": 779,
+        "name": "The King of Four Lands",
+        "category_id": 0,
+        "primo": 5
+    },
+    "780": {
+        "id": 780,
+        "name": "Scarlet Reign's Great Red Sand",
+        "category_id": 0,
+        "primo": 5
+    },
+    "781": {
+        "id": 781,
+        "name": "Engraved",
+        "category_id": 0,
+        "primo": 5
+    },
+    "782": {
+        "id": 782,
+        "name": "Before My Time",
+        "category_id": 0,
+        "primo": 5
+    },
+    "783": {
+        "id": 783,
+        "name": "The Illusory City",
+        "category_id": 0,
+        "primo": 5
+    },
+    "784": {
+        "id": 784,
+        "name": "How Do You Write the Excavation Report?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "785": {
+        "id": 785,
+        "name": "Drifting in the Wind",
+        "category_id": 0,
+        "primo": 5
+    },
+    "786": {
+        "id": 786,
+        "name": "One Flew Over the Sick Men's Rest",
+        "category_id": 0,
+        "primo": 5
+    },
+    "787": {
+        "id": 787,
+        "name": "A Well-Trained Archaeologist",
+        "category_id": 0,
+        "primo": 5
+    },
+    "788": {
+        "id": 788,
+        "name": "Beyond the Shadow of Time",
+        "category_id": 0,
+        "primo": 5
+    },
+    "789": {
+        "id": 789,
+        "name": "The Mad Flower at the End of the Road",
+        "category_id": 34,
+        "primo": 5
+    },
+    "790": {
+        "id": 790,
+        "name": "I Can't Take It Anymore!",
+        "category_id": 34,
+        "primo": 5
+    },
+    "791": {
+        "id": 791,
+        "name": "The Smell of Grilled Mushrooms in the Morning",
+        "category_id": 34,
+        "primo": 5
+    },
+    "792": {
+        "id": 792,
+        "name": "Dragonslayer",
+        "category_id": 34,
+        "primo": 5
+    },
+    "793": {
+        "id": 793,
+        "name": "Victory is a Mindset",
+        "category_id": 34,
+        "primo": 5
+    },
+    "794": {
+        "id": 794,
+        "name": "Resistance is Futile!",
+        "category_id": 34,
+        "primo": 5
+    },
+    "795": {
+        "id": 795,
+        "name": "System Shock",
+        "category_id": 34,
+        "primo": 5
+    },
+    "796": {
+        "id": 796,
+        "name": "Daisy, Daisy",
+        "category_id": 34,
+        "primo": 5
+    },
+    "797": {
+        "id": 797,
+        "name": "Stop It, Mr. Robot!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "798": {
+        "id": 798,
+        "name": "Nanomachines, Son!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "799": {
+        "id": 799,
+        "name": "Establishing a Beachhead",
+        "category_id": 0,
+        "primo": 5
+    },
+    "800": {
+        "id": 800,
+        "name": "The Invisible Hand",
+        "category_id": 0,
+        "primo": 5
+    },
+    "801": {
+        "id": 801,
+        "name": "Grassy Blasty, Sparks 'n' Splash",
+        "category_id": 36,
+        "primo": 5
+    },
+    "802": {
+        "id": 802,
+        "name": "Grassy Blasty, Sparks 'n' Splash",
+        "category_id": 36,
+        "primo": 10
+    },
+    "803": {
+        "id": 803,
+        "name": "Grassy Blasty, Sparks 'n' Splash",
+        "category_id": 36,
+        "primo": 20
+    },
+    "804": {
+        "id": 804,
+        "name": "Hyperblooming Circus",
+        "category_id": 36,
+        "primo": 5
+    },
+    "805": {
+        "id": 805,
+        "name": "Hyperblooming Circus",
+        "category_id": 36,
+        "primo": 10
+    },
+    "806": {
+        "id": 806,
+        "name": "Hyperblooming Circus",
+        "category_id": 36,
+        "primo": 20
+    },
+    "807": {
+        "id": 807,
+        "name": "Active Camouflage",
+        "category_id": 36,
+        "primo": 5
+    },
+    "808": {
+        "id": 808,
+        "name": "The Soul Transposed",
+        "category_id": 0,
+        "primo": 5
+    },
+    "809": {
+        "id": 809,
+        "name": "Triumph of the Imagination",
+        "category_id": 0,
+        "primo": 5
+    },
+    "810": {
+        "id": 810,
+        "name": "The God Gazes Back",
+        "category_id": 0,
+        "primo": 5
+    },
+    "811": {
+        "id": 811,
+        "name": "Dreams, Emptiness, Deception",
+        "category_id": 0,
+        "primo": 10
+    },
+    "812": {
+        "id": 812,
+        "name": "Desert Raider",
+        "category_id": 0,
+        "primo": 5
+    },
+    "813": {
+        "id": 813,
+        "name": "When the Dark Sun Passes",
+        "category_id": 0,
+        "primo": 5
+    },
+    "814": {
+        "id": 814,
+        "name": "King Deshret and the Three Magi",
+        "category_id": 0,
+        "primo": 10
+    },
+    "815": {
+        "id": 815,
+        "name": "One Step Too Far",
+        "category_id": 0,
+        "primo": 5
+    },
+    "816": {
+        "id": 816,
+        "name": "Doctor's Handwriting",
+        "category_id": 0,
+        "primo": 5
+    },
+    "817": {
+        "id": 817,
+        "name": "A Lingering Fragrance",
+        "category_id": 0,
+        "primo": 5
+    },
+    "818": {
+        "id": 818,
+        "name": "The Marvelous Uses of Nitrogen Fixation",
+        "category_id": 0,
+        "primo": 5
+    },
+    "819": {
+        "id": 819,
+        "name": "Records of the Fall",
+        "category_id": 0,
+        "primo": 5
+    },
+    "820": {
+        "id": 820,
+        "name": "It All Comes Tumbling Down",
+        "category_id": 0,
+        "primo": 10
+    },
+    "821": {
+        "id": 821,
+        "name": "Causality of Birth and Extinction",
+        "category_id": 0,
+        "primo": 10
+    },
+    "822": {
+        "id": 822,
+        "name": "Eremitis ne credite",
+        "category_id": 0,
+        "primo": 5
+    },
+    "823": {
+        "id": 823,
+        "name": "Victory Road",
+        "category_id": 0,
+        "primo": 5
+    },
+    "824": {
+        "id": 824,
+        "name": "The Longest Day",
+        "category_id": 0,
+        "primo": 5
+    },
+    "825": {
+        "id": 825,
+        "name": "...I'm Sorry, Sir, But You're Ineligible",
+        "category_id": 0,
+        "primo": 5
+    },
+    "826": {
+        "id": 826,
+        "name": "Akasha Pulses, the Kalpa Flame Rises",
+        "category_id": 0,
+        "primo": 10
+    },
+    "827": {
+        "id": 827,
+        "name": "Visible, Yet Invisible",
+        "category_id": 37,
+        "primo": 5
+    },
+    "828": {
+        "id": 828,
+        "name": "Win-Loss Ratio",
+        "category_id": 37,
+        "primo": 10
+    },
+    "829": {
+        "id": 829,
+        "name": "A Riotous Response",
+        "category_id": 37,
+        "primo": 5
+    },
+    "830": {
+        "id": 830,
+        "name": "A Riotous Response",
+        "category_id": 37,
+        "primo": 10
+    },
+    "831": {
+        "id": 831,
+        "name": "A Riotous Response",
+        "category_id": 37,
+        "primo": 20
+    },
+    "832": {
+        "id": 832,
+        "name": "Victory at Hand",
+        "category_id": 37,
+        "primo": 5
+    },
+    "833": {
+        "id": 833,
+        "name": "Victory at Hand",
+        "category_id": 37,
+        "primo": 10
+    },
+    "834": {
+        "id": 834,
+        "name": "Victory at Hand",
+        "category_id": 37,
+        "primo": 20
+    },
+    "835": {
+        "id": 835,
+        "name": "\"Well, Let's See It, Partner...\"",
+        "category_id": 37,
+        "primo": 5
+    },
+    "836": {
+        "id": 836,
+        "name": "\"Well, Let's See It, Partner...\"",
+        "category_id": 37,
+        "primo": 10
+    },
+    "837": {
+        "id": 837,
+        "name": "\"Well, Let's See It, Partner...\"",
+        "category_id": 37,
+        "primo": 20
+    },
+    "838": {
+        "id": 838,
+        "name": "Attack! Attack! Attack!",
+        "category_id": 37,
+        "primo": 5
+    },
+    "839": {
+        "id": 839,
+        "name": "Attack! Attack! Attack!",
+        "category_id": 37,
+        "primo": 10
+    },
+    "840": {
+        "id": 840,
+        "name": "Attack! Attack! Attack!",
+        "category_id": 37,
+        "primo": 20
+    },
+    "841": {
+        "id": 841,
+        "name": "A Candle in the Wind?",
+        "category_id": 37,
+        "primo": 5
+    },
+    "842": {
+        "id": 842,
+        "name": "A Candle in the Wind?",
+        "category_id": 37,
+        "primo": 10
+    },
+    "843": {
+        "id": 843,
+        "name": "A Candle in the Wind?",
+        "category_id": 37,
+        "primo": 20
+    },
+    "844": {
+        "id": 844,
+        "name": "Chaos Divided",
+        "category_id": 37,
+        "primo": 5
+    },
+    "845": {
+        "id": 845,
+        "name": "Chaos Divided",
+        "category_id": 37,
+        "primo": 10
+    },
+    "846": {
+        "id": 846,
+        "name": "Chaos Divided",
+        "category_id": 37,
+        "primo": 20
+    },
+    "847": {
+        "id": 847,
+        "name": "Legendary High Roller",
+        "category_id": 37,
+        "primo": 5
+    },
+    "848": {
+        "id": 848,
+        "name": "Legendary High Roller",
+        "category_id": 37,
+        "primo": 10
+    },
+    "849": {
+        "id": 849,
+        "name": "Legendary High Roller",
+        "category_id": 37,
+        "primo": 20
+    },
+    "850": {
+        "id": 850,
+        "name": "Miniaturized Dice-Shaker",
+        "category_id": 37,
+        "primo": 5
+    },
+    "851": {
+        "id": 851,
+        "name": "Miniaturized Dice-Shaker",
+        "category_id": 37,
+        "primo": 10
+    },
+    "852": {
+        "id": 852,
+        "name": "Miniaturized Dice-Shaker",
+        "category_id": 37,
+        "primo": 20
+    },
+    "853": {
+        "id": 853,
+        "name": "Mystery of Tatarasuna",
+        "category_id": 0,
+        "primo": 5
+    },
+    "854": {
+        "id": 854,
+        "name": "Echoes of History",
+        "category_id": 0,
+        "primo": 5
+    },
+    "855": {
+        "id": 855,
+        "name": "Parinama: Fox, Cat, Bird, and Monster",
+        "category_id": 0,
+        "primo": 5
+    },
+    "856": {
+        "id": 856,
+        "name": "Me, Myself, But Not I",
+        "category_id": 0,
+        "primo": 5
+    },
+    "857": {
+        "id": 857,
+        "name": "Inversion of Genesis",
+        "category_id": 0,
+        "primo": 10
+    },
+    "858": {
+        "id": 858,
+        "name": "Swordseeker",
+        "category_id": 0,
+        "primo": 5
+    },
+    "859": {
+        "id": 859,
+        "name": "To Walk The Horizon...?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "860": {
+        "id": 860,
+        "name": "Continental Explorer: Dune Dreams (II)",
+        "category_id": 38,
+        "primo": 5
+    },
+    "861": {
+        "id": 861,
+        "name": "Over Sandstorms and Mirages (II)",
+        "category_id": 38,
+        "primo": 5
+    },
+    "862": {
+        "id": 862,
+        "name": "Sanctuary Pilgrim: Dune Dreams (II)",
+        "category_id": 38,
+        "primo": 10
+    },
+    "863": {
+        "id": 863,
+        "name": "The Dirge of Bilqis",
+        "category_id": 38,
+        "primo": 10
+    },
+    "864": {
+        "id": 864,
+        "name": "The Desert Will Guide You Home (II)",
+        "category_id": 38,
+        "primo": 5
+    },
+    "865": {
+        "id": 865,
+        "name": "The Desert Will Guide You Home (II)",
+        "category_id": 38,
+        "primo": 10
+    },
+    "866": {
+        "id": 866,
+        "name": "The Desert Will Guide You Home (II)",
+        "category_id": 38,
+        "primo": 20
+    },
+    "867": {
+        "id": 867,
+        "name": "Quicksand Treasure Hunter (II)",
+        "category_id": 38,
+        "primo": 5
+    },
+    "868": {
+        "id": 868,
+        "name": "Quicksand Treasure Hunter (II)",
+        "category_id": 38,
+        "primo": 10
+    },
+    "869": {
+        "id": 869,
+        "name": "Quicksand Treasure Hunter (II)",
+        "category_id": 38,
+        "primo": 20
+    },
+    "870": {
+        "id": 870,
+        "name": "Quicksand Adventurer (II)",
+        "category_id": 38,
+        "primo": 5
+    },
+    "871": {
+        "id": 871,
+        "name": "Quicksand Adventurer (II)",
+        "category_id": 38,
+        "primo": 10
+    },
+    "872": {
+        "id": 872,
+        "name": "Quicksand Adventurer (II)",
+        "category_id": 38,
+        "primo": 20
+    },
+    "873": {
+        "id": 873,
+        "name": "\"If They Had Known the Unseen...\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "874": {
+        "id": 874,
+        "name": "\"It's Only an Eternity of Servitude!\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "875": {
+        "id": 875,
+        "name": "The Nameless City's Past",
+        "category_id": 0,
+        "primo": 5
+    },
+    "877": {
+        "id": 877,
+        "name": "The Silent, Dreamless Paradise",
+        "category_id": 0,
+        "primo": 5
+    },
+    "878": {
+        "id": 878,
+        "name": "\"...For She Shall Surely Requite.\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "879": {
+        "id": 879,
+        "name": "La Luna Rossa",
+        "category_id": 0,
+        "primo": 5
+    },
+    "880": {
+        "id": 880,
+        "name": "Flat Out",
+        "category_id": 0,
+        "primo": 5
+    },
+    "881": {
+        "id": 881,
+        "name": "\"I Hate 'Em Myself!\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "882": {
+        "id": 882,
+        "name": "Genesis of the Rift",
+        "category_id": 0,
+        "primo": 5
+    },
+    "883": {
+        "id": 883,
+        "name": "Didn't Even Need a Manual...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "884": {
+        "id": 884,
+        "name": "Hunter's Mercy",
+        "category_id": 0,
+        "primo": 5
+    },
+    "885": {
+        "id": 885,
+        "name": "On a Magic Carpet Ride",
+        "category_id": 0,
+        "primo": 5
+    },
+    "886": {
+        "id": 886,
+        "name": "\"Isn't Life Wondrous?\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "887": {
+        "id": 887,
+        "name": "The Ancient Orchard and Spring",
+        "category_id": 0,
+        "primo": 5
+    },
+    "888": {
+        "id": 888,
+        "name": "In Her Full Glory...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "889": {
+        "id": 889,
+        "name": "\"...Shew the Kingdoms Thy Shame.\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "890": {
+        "id": 890,
+        "name": "From Soil You Are, and to the Sand You Shall Return...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "891": {
+        "id": 891,
+        "name": "The Perfect Sandstorm",
+        "category_id": 0,
+        "primo": 5
+    },
+    "892": {
+        "id": 892,
+        "name": "The Loveless Tarantula",
+        "category_id": 0,
+        "primo": 5
+    },
+    "893": {
+        "id": 893,
+        "name": "Parvezravan Khwarrah",
+        "category_id": 0,
+        "primo": 5
+    },
+    "894": {
+        "id": 894,
+        "name": "A Very Long Engagement",
+        "category_id": 0,
+        "primo": 5
+    },
+    "895": {
+        "id": 895,
+        "name": "He Who Controls the Spice...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "896": {
+        "id": 896,
+        "name": "Star-Crossed Night",
+        "category_id": 0,
+        "primo": 5
+    },
+    "897": {
+        "id": 897,
+        "name": "The Sickness Unto Near-Death",
+        "category_id": 0,
+        "primo": 5
+    },
+    "898": {
+        "id": 898,
+        "name": "The Far Side of Fate",
+        "category_id": 0,
+        "primo": 5
+    },
+    "899": {
+        "id": 899,
+        "name": "Caribert",
+        "category_id": 0,
+        "primo": 10
+    },
+    "900": {
+        "id": 900,
+        "name": "Optimal Solution",
+        "category_id": 17,
+        "primo": 20
+    },
+    "901": {
+        "id": 901,
+        "name": "To You in a Hundred Years",
+        "category_id": 17,
+        "primo": 5
+    },
+    "902": {
+        "id": 902,
+        "name": "Mechanics: From Beginner to...?",
+        "category_id": 17,
+        "primo": 5
+    },
+    "903": {
+        "id": 903,
+        "name": "Continental Explorer: Blessed Hamada",
+        "category_id": 41,
+        "primo": 5
+    },
+    "904": {
+        "id": 904,
+        "name": "Descending Into the Depths of Desolation",
+        "category_id": 41,
+        "primo": 5
+    },
+    "905": {
+        "id": 905,
+        "name": "Sanctuary Pilgrim: Blessed Hamada",
+        "category_id": 41,
+        "primo": 10
+    },
+    "906": {
+        "id": 906,
+        "name": "Dune Guide",
+        "category_id": 41,
+        "primo": 5
+    },
+    "907": {
+        "id": 907,
+        "name": "Dune Guide",
+        "category_id": 41,
+        "primo": 10
+    },
+    "908": {
+        "id": 908,
+        "name": "Dune Guide",
+        "category_id": 41,
+        "primo": 20
+    },
+    "909": {
+        "id": 909,
+        "name": "Badlands Treasure Hunter",
+        "category_id": 41,
+        "primo": 5
+    },
+    "910": {
+        "id": 910,
+        "name": "Badlands Treasure Hunter",
+        "category_id": 41,
+        "primo": 10
+    },
+    "911": {
+        "id": 911,
+        "name": "Badlands Treasure Hunter",
+        "category_id": 41,
+        "primo": 20
+    },
+    "912": {
+        "id": 912,
+        "name": "Badlands Adventurer",
+        "category_id": 41,
+        "primo": 5
+    },
+    "913": {
+        "id": 913,
+        "name": "Badlands Adventurer",
+        "category_id": 41,
+        "primo": 10
+    },
+    "914": {
+        "id": 914,
+        "name": "Badlands Adventurer",
+        "category_id": 41,
+        "primo": 20
+    },
+    "915": {
+        "id": 915,
+        "name": "Alkanet Amrita",
+        "category_id": 41,
+        "primo": 20
+    },
+    "916": {
+        "id": 916,
+        "name": "Khvarena of Good and Evil",
+        "category_id": 41,
+        "primo": 10
+    },
+    "917": {
+        "id": 917,
+        "name": "Where the Light Touches",
+        "category_id": 0,
+        "primo": 5
+    },
+    "918": {
+        "id": 918,
+        "name": "Like a Morning Sun Coming Out of Gloomy Mountains",
+        "category_id": 0,
+        "primo": 5
+    },
+    "919": {
+        "id": 919,
+        "name": "The Tree on the Hill",
+        "category_id": 0,
+        "primo": 5
+    },
+    "920": {
+        "id": 920,
+        "name": "Beneath the Fog",
+        "category_id": 0,
+        "primo": 5
+    },
+    "921": {
+        "id": 921,
+        "name": "Hic Pulso",
+        "category_id": 0,
+        "primo": 5
+    },
+    "922": {
+        "id": 922,
+        "name": "Vyakarana of the Birds",
+        "category_id": 0,
+        "primo": 5
+    },
+    "923": {
+        "id": 923,
+        "name": "Behold My Righteous Strike!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "924": {
+        "id": 924,
+        "name": "\"...Abandon All Hope, Ye Who Enter Here.\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "925": {
+        "id": 925,
+        "name": "Fabricator-General",
+        "category_id": 0,
+        "primo": 5
+    },
+    "926": {
+        "id": 926,
+        "name": "Trial of Haft-Vádí",
+        "category_id": 0,
+        "primo": 5
+    },
+    "927": {
+        "id": 927,
+        "name": "A Rope Over an Abyss",
+        "category_id": 0,
+        "primo": 5
+    },
+    "928": {
+        "id": 928,
+        "name": "The Camel, the Lion, and the Child",
+        "category_id": 0,
+        "primo": 5
+    },
+    "929": {
+        "id": 929,
+        "name": "The Day of Tirgan",
+        "category_id": 0,
+        "primo": 5
+    },
+    "930": {
+        "id": 930,
+        "name": "A Fascinating Journey",
+        "category_id": 0,
+        "primo": 5
+    },
+    "931": {
+        "id": 931,
+        "name": "\"This Mystery Is Solved!\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "932": {
+        "id": 932,
+        "name": "Homeward-Bound Spirits",
+        "category_id": 0,
+        "primo": 5
+    },
+    "933": {
+        "id": 933,
+        "name": "The Sea of Fertility",
+        "category_id": 0,
+        "primo": 5
+    },
+    "934": {
+        "id": 934,
+        "name": "The Brave Shall Not Falter",
+        "category_id": 0,
+        "primo": 5
+    },
+    "935": {
+        "id": 935,
+        "name": "Bifröst",
+        "category_id": 0,
+        "primo": 5
+    },
+    "936": {
+        "id": 936,
+        "name": "Seven Dish Dance",
+        "category_id": 0,
+        "primo": 5
+    },
+    "937": {
+        "id": 937,
+        "name": "Shining in the Mire",
+        "category_id": 0,
+        "primo": 5
+    },
+    "938": {
+        "id": 938,
+        "name": "When the Red Scarf Transforms Into a Bird in Flight...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "939": {
+        "id": 939,
+        "name": "Soaring in the Skies of Sary-Ozek",
+        "category_id": 0,
+        "primo": 5
+    },
+    "940": {
+        "id": 940,
+        "name": "Whose Descendant Are You, and What's Your Name?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "941": {
+        "id": 941,
+        "name": "Use the Force, Sorush",
+        "category_id": 0,
+        "primo": 5
+    },
+    "942": {
+        "id": 942,
+        "name": "Refusal of Thorns",
+        "category_id": 39,
+        "primo": 5
+    },
+    "943": {
+        "id": 943,
+        "name": "Back for More",
+        "category_id": 39,
+        "primo": 5
+    },
+    "944": {
+        "id": 944,
+        "name": "Like Hopscotch?",
+        "category_id": 39,
+        "primo": 5
+    },
+    "945": {
+        "id": 945,
+        "name": "...It's Payback Time",
+        "category_id": 39,
+        "primo": 10
+    },
+    "946": {
+        "id": 946,
+        "name": "Now That's What You Call the Four Winds!",
+        "category_id": 39,
+        "primo": 5
+    },
+    "947": {
+        "id": 947,
+        "name": "Despite the Barrier Between Us...",
+        "category_id": 39,
+        "primo": 10
+    },
+    "948": {
+        "id": 948,
+        "name": "Proof by Exhaustion",
+        "category_id": 39,
+        "primo": 5
+    },
+    "949": {
+        "id": 949,
+        "name": "When You Say Nothing at All",
+        "category_id": 0,
+        "primo": 5
+    },
+    "950": {
+        "id": 950,
+        "name": "Like the Sun's Passage",
+        "category_id": 39,
+        "primo": 10
+    },
+    "951": {
+        "id": 951,
+        "name": "The Name Is Layla",
+        "category_id": 17,
+        "primo": 20
+    },
+    "952": {
+        "id": 952,
+        "name": "She's Already Tense",
+        "category_id": 17,
+        "primo": 5
+    },
+    "953": {
+        "id": 953,
+        "name": "Secret of Seelie and the Star-Lit Sky",
+        "category_id": 17,
+        "primo": 5
+    },
+    "954": {
+        "id": 954,
+        "name": "Art and Life",
+        "category_id": 17,
+        "primo": 20
+    },
+    "955": {
+        "id": 955,
+        "name": "School Days",
+        "category_id": 17,
+        "primo": 5
+    },
+    "956": {
+        "id": 956,
+        "name": "An Architect's Romanticism",
+        "category_id": 17,
+        "primo": 5
+    },
+    "957": {
+        "id": 957,
+        "name": "Make Merry",
+        "category_id": 17,
+        "primo": 20
+    },
+    "958": {
+        "id": 958,
+        "name": "Lucky Coin",
+        "category_id": 17,
+        "primo": 5
+    },
+    "959": {
+        "id": 959,
+        "name": "Shh... Listen!",
+        "category_id": 17,
+        "primo": 5
+    },
+    "960": {
+        "id": 960,
+        "name": "Continental Explorer: Land of Harmonious Springs (I)",
+        "category_id": 42,
+        "primo": 5
+    },
+    "961": {
+        "id": 961,
+        "name": "Font of All Waters (I)",
+        "category_id": 42,
+        "primo": 5
+    },
+    "962": {
+        "id": 962,
+        "name": "Sanctuary Pilgrim: Land of Harmonious Springs (I)",
+        "category_id": 42,
+        "primo": 10
+    },
+    "963": {
+        "id": 963,
+        "name": "Like Waters Clear",
+        "category_id": 42,
+        "primo": 20
+    },
+    "964": {
+        "id": 964,
+        "name": "Dew Song",
+        "category_id": 42,
+        "primo": 20
+    },
+    "965": {
+        "id": 965,
+        "name": "Tides Will Guide You Home (I)",
+        "category_id": 42,
+        "primo": 5
+    },
+    "966": {
+        "id": 966,
+        "name": "Tides Will Guide You Home (I)",
+        "category_id": 42,
+        "primo": 10
+    },
+    "967": {
+        "id": 967,
+        "name": "Tides Will Guide You Home (I)",
+        "category_id": 42,
+        "primo": 20
+    },
+    "968": {
+        "id": 968,
+        "name": "Waveriding Treasure Hunter (I)",
+        "category_id": 42,
+        "primo": 5
+    },
+    "969": {
+        "id": 969,
+        "name": "Waveriding Treasure Hunter (I)",
+        "category_id": 42,
+        "primo": 10
+    },
+    "970": {
+        "id": 970,
+        "name": "Waveriding Treasure Hunter (I)",
+        "category_id": 42,
+        "primo": 20
+    },
+    "971": {
+        "id": 971,
+        "name": "Waveriding Adventurer (I)",
+        "category_id": 42,
+        "primo": 5
+    },
+    "972": {
+        "id": 972,
+        "name": "Waveriding Adventurer (I)",
+        "category_id": 42,
+        "primo": 10
+    },
+    "973": {
+        "id": 973,
+        "name": "Waveriding Adventurer (I)",
+        "category_id": 42,
+        "primo": 20
+    },
+    "974": {
+        "id": 974,
+        "name": "Ann in Wonderland",
+        "category_id": 42,
+        "primo": 10
+    },
+    "975": {
+        "id": 975,
+        "name": "Limner, Dreamer, and Robotic Dog",
+        "category_id": 42,
+        "primo": 10
+    },
+    "976": {
+        "id": 976,
+        "name": "Land of Fair Springs",
+        "category_id": 43,
+        "primo": 5
+    },
+    "977": {
+        "id": 977,
+        "name": "Renart the Deceiver",
+        "category_id": 43,
+        "primo": 5
+    },
+    "978": {
+        "id": 978,
+        "name": "Robben versus Chesterton",
+        "category_id": 43,
+        "primo": 5
+    },
+    "979": {
+        "id": 979,
+        "name": "Compendium of Misery",
+        "category_id": 43,
+        "primo": 5
+    },
+    "980": {
+        "id": 980,
+        "name": "Angle Eraser",
+        "category_id": 0,
+        "primo": 5
+    },
+    "981": {
+        "id": 981,
+        "name": "Core Cooling",
+        "category_id": 0,
+        "primo": 5
+    },
+    "982": {
+        "id": 982,
+        "name": "The White Ship",
+        "category_id": 0,
+        "primo": 5
+    },
+    "983": {
+        "id": 983,
+        "name": "Encyclopedia of Natural Philosophy",
+        "category_id": 0,
+        "primo": 5
+    },
+    "984": {
+        "id": 984,
+        "name": "A Fontainian Message",
+        "category_id": 0,
+        "primo": 5
+    },
+    "985": {
+        "id": 985,
+        "name": "Nothing but a Hound Dog...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "986": {
+        "id": 986,
+        "name": "It's Fish, I Added Fish",
+        "category_id": 0,
+        "primo": 5
+    },
+    "987": {
+        "id": 987,
+        "name": "Welcome to Fontaine",
+        "category_id": 0,
+        "primo": 5
+    },
+    "988": {
+        "id": 988,
+        "name": "Sogno di Volare",
+        "category_id": 0,
+        "primo": 5
+    },
+    "989": {
+        "id": 989,
+        "name": "Birth of the Modern Clock",
+        "category_id": 0,
+        "primo": 5
+    },
+    "990": {
+        "id": 990,
+        "name": "Waterworld Future",
+        "category_id": 0,
+        "primo": 5
+    },
+    "991": {
+        "id": 991,
+        "name": "Aesthetics of Ugliness",
+        "category_id": 0,
+        "primo": 5
+    },
+    "992": {
+        "id": 992,
+        "name": "Like Tears in the Rain",
+        "category_id": 0,
+        "primo": 5
+    },
+    "993": {
+        "id": 993,
+        "name": "These Are a Few of My...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "994": {
+        "id": 994,
+        "name": "An Eye for an Eye",
+        "category_id": 0,
+        "primo": 5
+    },
+    "995": {
+        "id": 995,
+        "name": "Do You Believe In Rapture?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "996": {
+        "id": 996,
+        "name": "Hardships Experienced...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "997": {
+        "id": 997,
+        "name": "And After That...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "998": {
+        "id": 998,
+        "name": "A Study in Sable",
+        "category_id": 0,
+        "primo": 5
+    },
+    "999": {
+        "id": 999,
+        "name": "Twenty Thousand Leagues Under the Sea",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1000": {
+        "id": 1000,
+        "name": "Truly Mouthwatering!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1001": {
+        "id": 1001,
+        "name": "Song of the Ancients",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1002": {
+        "id": 1002,
+        "name": "Ninianne of the Lake",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1003": {
+        "id": 1003,
+        "name": "Vivianne of the Lake",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1004": {
+        "id": 1004,
+        "name": "Fontaine Expects That Everyone Will Do Their Duty",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1005": {
+        "id": 1005,
+        "name": "In Search of Frittered Time",
+        "category_id": 0,
+        "primo": 20
+    },
+    "1006": {
+        "id": 1006,
+        "name": "Blubby, Chubby, Creative Evolution",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1007": {
+        "id": 1007,
+        "name": "Ocean Circuit Judge",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1008": {
+        "id": 1008,
+        "name": "Iron Viscount",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1009": {
+        "id": 1009,
+        "name": "Dobharcu, Lord of the Hidden",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1010": {
+        "id": 1010,
+        "name": "Fading Veteran",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1011": {
+        "id": 1011,
+        "name": "Swords of the Gorge",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1012": {
+        "id": 1012,
+        "name": "The Fairy Knight Twins",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1013": {
+        "id": 1013,
+        "name": "The White Path Between Two Rivers",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1014": {
+        "id": 1014,
+        "name": "Cell, Splinter",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1015": {
+        "id": 1015,
+        "name": "Too Hot to Handle!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1016": {
+        "id": 1016,
+        "name": "Funerary Storm",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1017": {
+        "id": 1017,
+        "name": "The King Is Dead, Long Live the King!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1018": {
+        "id": 1018,
+        "name": "Icebound Oath",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1019": {
+        "id": 1019,
+        "name": "Like Water Disappearing Into Water",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1020": {
+        "id": 1020,
+        "name": "A Detective in Action",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1021": {
+        "id": 1021,
+        "name": "A Twist of Great Magic",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1022": {
+        "id": 1022,
+        "name": "Prelude of Blancheur and Noirceur",
+        "category_id": 0,
+        "primo": 10
+    },
+    "1023": {
+        "id": 1023,
+        "name": "Lennék én folyóvíz",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1024": {
+        "id": 1024,
+        "name": "Once Upon a Time in Fleuve Cendre",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1025": {
+        "id": 1025,
+        "name": "Tragedy Repeats Itself",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1026": {
+        "id": 1026,
+        "name": "As Light Rain Falls Without Reason",
+        "category_id": 0,
+        "primo": 10
+    },
+    "1027": {
+        "id": 1027,
+        "name": "Office on the Avenue",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1028": {
+        "id": 1028,
+        "name": "Not Your Average Joe",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1029": {
+        "id": 1029,
+        "name": "Aesthetic Critique",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1030": {
+        "id": 1030,
+        "name": "Second Childhood",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1031": {
+        "id": 1031,
+        "name": "A Sudden Squall",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1032": {
+        "id": 1032,
+        "name": "End of the Eternal Return",
+        "category_id": 44,
+        "primo": 10
+    },
+    "1033": {
+        "id": 1033,
+        "name": "Ever So Slightly Inferior",
+        "category_id": 44,
+        "primo": 10
+    },
+    "1034": {
+        "id": 1034,
+        "name": "The Greenery Out of Space",
+        "category_id": 44,
+        "primo": 10
+    },
+    "1035": {
+        "id": 1035,
+        "name": "Dance Like You Want to Win!",
+        "category_id": 44,
+        "primo": 10
+    },
+    "1036": {
+        "id": 1036,
+        "name": "Desert-Dwellers' Rite of Passage",
+        "category_id": 44,
+        "primo": 10
+    },
+    "1037": {
+        "id": 1037,
+        "name": "Presumption of Guilt",
+        "category_id": 44,
+        "primo": 10
+    },
+    "1038": {
+        "id": 1038,
+        "name": "Proof of the Reed Sea Conqueror",
+        "category_id": 44,
+        "primo": 10
+    },
+    "1039": {
+        "id": 1039,
+        "name": "The Power of Science is Staggering!",
+        "category_id": 44,
+        "primo": 10
+    },
+    "1040": {
+        "id": 1040,
+        "name": "A Successful Hunt",
+        "category_id": 44,
+        "primo": 10
+    },
+    "1041": {
+        "id": 1041,
+        "name": "Continental Explorer: Land of Harmonious Springs (II)",
+        "category_id": 45,
+        "primo": 5
+    },
+    "1042": {
+        "id": 1042,
+        "name": "Font of All Waters (II)",
+        "category_id": 45,
+        "primo": 5
+    },
+    "1043": {
+        "id": 1043,
+        "name": "Sanctuary Pilgrim: Land of Harmonious Springs (II)",
+        "category_id": 45,
+        "primo": 10
+    },
+    "1044": {
+        "id": 1044,
+        "name": "Tidal Guide (II)",
+        "category_id": 45,
+        "primo": 5
+    },
+    "1045": {
+        "id": 1045,
+        "name": "Tidal Guide (II)",
+        "category_id": 45,
+        "primo": 10
+    },
+    "1046": {
+        "id": 1046,
+        "name": "Tidal Guide (II)",
+        "category_id": 45,
+        "primo": 20
+    },
+    "1047": {
+        "id": 1047,
+        "name": "Waveriding Treasure Hunter (II)",
+        "category_id": 45,
+        "primo": 5
+    },
+    "1048": {
+        "id": 1048,
+        "name": "Waveriding Treasure Hunter (II)",
+        "category_id": 45,
+        "primo": 10
+    },
+    "1049": {
+        "id": 1049,
+        "name": "Waveriding Treasure Hunter (II)",
+        "category_id": 45,
+        "primo": 20
+    },
+    "1050": {
+        "id": 1050,
+        "name": "Waveriding Adventurer (II)",
+        "category_id": 45,
+        "primo": 5
+    },
+    "1051": {
+        "id": 1051,
+        "name": "Waveriding Adventurer (II)",
+        "category_id": 45,
+        "primo": 10
+    },
+    "1052": {
+        "id": 1052,
+        "name": "Waveriding Adventurer (II)",
+        "category_id": 45,
+        "primo": 20
+    },
+    "1053": {
+        "id": 1053,
+        "name": "There Is One Spectacle Grander Than the Sea, That Is the Sky",
+        "category_id": 45,
+        "primo": 10
+    },
+    "1054": {
+        "id": 1054,
+        "name": "This Ends Here",
+        "category_id": 45,
+        "primo": 10
+    },
+    "1055": {
+        "id": 1055,
+        "name": "Consumer Society",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1056": {
+        "id": 1056,
+        "name": "When the Clock Strikes Midnight",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1057": {
+        "id": 1057,
+        "name": "Non-Zero-Sum Game",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1058": {
+        "id": 1058,
+        "name": "The Superfluous Man's Account",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1059": {
+        "id": 1059,
+        "name": "Les Quatre Coups",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1060": {
+        "id": 1060,
+        "name": "What Lies at the End of the Rainbow...?",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1061": {
+        "id": 1061,
+        "name": "Come on out, Mystery Ore! Grant my wish!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1062": {
+        "id": 1062,
+        "name": "Not So Strait Is the Gate",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1063": {
+        "id": 1063,
+        "name": "The Remains of the Day",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1064": {
+        "id": 1064,
+        "name": "The Calendar of the Future Is Longer Than the Diary of the Past",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1065": {
+        "id": 1065,
+        "name": "Break the Time Zone",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1066": {
+        "id": 1066,
+        "name": "The Forgotten Ream",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1067": {
+        "id": 1067,
+        "name": "While Motors Sleep...",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1068": {
+        "id": 1068,
+        "name": "The Worst! Fontaine's Eight Evil Clockwork Knights!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1069": {
+        "id": 1069,
+        "name": "\"Automated Supercomputing Field Generator\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1070": {
+        "id": 1070,
+        "name": "Slam-Bang No-Holds Barred Meropide-Style Pankration",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1071": {
+        "id": 1071,
+        "name": "Undocumented Feature",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1072": {
+        "id": 1072,
+        "name": "Le Scaphandre et le Pufferfruit",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1073": {
+        "id": 1073,
+        "name": "\"Luachra the Brilliant\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1075": {
+        "id": 1075,
+        "name": "Mired in Red Tape",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1076": {
+        "id": 1076,
+        "name": "Solitary Report",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1078": {
+        "id": 1078,
+        "name": "The Red Meanies' Revenge",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1079": {
+        "id": 1079,
+        "name": "The Final Fonta Sea",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1080": {
+        "id": 1080,
+        "name": "\"...What New Tide?\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1081": {
+        "id": 1081,
+        "name": "A Perfect Yesterday",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1082": {
+        "id": 1082,
+        "name": "Thanks For Your Patronage!",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1083": {
+        "id": 1083,
+        "name": "The Final Fonta Sea",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1084": {
+        "id": 1084,
+        "name": "The Final Fonta Sea",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1085": {
+        "id": 1085,
+        "name": "\"Yseut\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1086": {
+        "id": 1086,
+        "name": "The Distance of the Moon",
+        "category_id": 40,
+        "primo": 5
+    },
+    "1087": {
+        "id": 1087,
+        "name": "Gravity Front",
+        "category_id": 40,
+        "primo": 5
+    },
+    "1088": {
+        "id": 1088,
+        "name": "Shackle Me, That I Might Willingly Be Destroyed",
+        "category_id": 40,
+        "primo": 5
+    },
+    "1089": {
+        "id": 1089,
+        "name": "Crabs for the Crab Throne",
+        "category_id": 40,
+        "primo": 5
+    },
+    "1090": {
+        "id": 1090,
+        "name": "Collezione di Sabbia",
+        "category_id": 40,
+        "primo": 5
+    },
+    "1091": {
+        "id": 1091,
+        "name": "Fulgura Frango",
+        "category_id": 40,
+        "primo": 5
+    },
+    "1092": {
+        "id": 1092,
+        "name": "Visitor to the \"Aquarium\"",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1093": {
+        "id": 1093,
+        "name": "A Vision in a Dream",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1094": {
+        "id": 1094,
+        "name": "Fortress Corner Society's Rules",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1095": {
+        "id": 1095,
+        "name": "To the Stars Shining in the Depths",
+        "category_id": 0,
+        "primo": 10
+    },
+    "1096": {
+        "id": 1096,
+        "name": "Le Déluge",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1097": {
+        "id": 1097,
+        "name": "The Secret of Blue Water",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1098": {
+        "id": 1098,
+        "name": "Out of the Aeons",
+        "category_id": 0,
+        "primo": 5
+    },
+    "1099": {
+        "id": 1099,
+        "name": "Cataclysm's Quickening",
+        "category_id": 0,
+        "primo": 10
+    },
+    "1100": {
+        "id": 1100,
+        "name": "New Inspiration! New Products!",
+        "category_id": 0,
+        "primo": 5
+    }
+}
