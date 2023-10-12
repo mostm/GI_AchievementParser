@@ -28,3 +28,8 @@ Quick how-to:
 6. Paste your Cookies that you just copied.
 7. ...
 8. PROFIT!
+
+## Known issues
+- Does not scan achievements with "steps" (5, 10 and 20 primogems) correctly.
+- Achievements with "steps" only counted as "Completed" on the last step (20 primo).
+- Achievements besides first category might not parse correctly (most of them are correct), keep this in mind and recheck manually after scanning.
