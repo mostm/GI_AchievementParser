@@ -1,3 +1,5 @@
+[English](https://github.com/mostm/GI_AchievementParser/blob/main/README.md) | [Русский](https://github.com/mostm/GI_AchievementParser/blob/main/README_ru.md)
+
 # GI_AchievementParser
 Сканер достижений для Genshin Impact
 
