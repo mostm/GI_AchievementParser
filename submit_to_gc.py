@@ -42,8 +42,8 @@ def main():
         if not gc_ids:
             print(f'Пропускаем {k} (нет в базе)')
             continue
-        if gc_achievements.get(str(gc_ids[0]), {'category_id': 123})['category_id'] == 0:
-            ids_to_submit += gc_ids
+        # if gc_achievements.get(str(gc_ids[0]), {'category_id': 123})['category_id'] == 0:
+        ids_to_submit += gc_ids
     submit_ids(ids_to_submit, cookies)
 
 
