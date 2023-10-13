@@ -16,8 +16,11 @@ In-case you want to quit scanning, just spam `Windows` key. It should stop after
 ## Uploading data to Genshin Center
 
 After scan is complete, you might want to upload that data somewhere.
-I've included my script for uploading to [Genshin Center](https://genshin-center.com/)
+
+For that, I've included my script for uploading to [Genshin Center](https://genshin-center.com/)
+
 To do that, copy your "Cookies" from Chrome (as a string)
+
 Quick how-to:
 1. Press `Ctrl+Shift+I` in open "Genshin Center" window.
 2. Open "Network" tab.
