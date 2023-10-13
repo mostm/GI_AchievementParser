@@ -1,3 +1,5 @@
+[English](https://github.com/mostm/GI_AchievementParser/blob/main/README.md) | [Русский](https://github.com/mostm/GI_AchievementParser/blob/main/README_ru.md)
+
 # GI_AchievementParser
 In-game achievement parser for Genshin Impact
 
